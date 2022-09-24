@@ -33,3 +33,18 @@ Homepage: http://www.gnu.org/software/coreutils/
 Description: core set of Unix shell utilities from GNU
 Name: Core Utilities
 
+Package: neatvi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/neatvi-1.0.deb
+Size: 43644
+MD5sum: c82c031bdbd14b1fa91095a6b7c6e986
+SHA1: 797f7acf935097c957b56f681751dc023ff6bc2a
+SHA256: 68d94e922de7cd8189f30617b71e3d4d42d319df14d4dce7b53f2669e8bb9ee7
+Section: Text_Editors
+Priority: standard
+Homepage: https://github.com/aligrudi/neatvi
+Description: A small vi/ex editor for editing bidirectional UTF-8 text
+Name: NeatVi
+
