@@ -7,10 +7,10 @@ Depends: bash, coreutils-bin (>= 7.4-5), profile.d
 Replaces: netatalk (<= 2.0.3-6)
 Provides: md5sum, sha1sum
 Filename: ./debs/coreutils-9.1.deb
-Size: 1551852
-MD5sum: 3150f52c0f6eff1cfcdb565e5dc17406
-SHA1: aaf079373376e4b731ec67769f5f62f8f1033097
-SHA256: 53384b1f8cca61b551b4ed5f07ea4672b5cedb4d7f735f4c8648929cdccd8233
+Size: 1550648
+MD5sum: 42aea49c88c77633f656c44675ceeabb
+SHA1: 728580d116e2be25268192ecd96b1a2f7a2b45cf
+SHA256: 46ebc74a83a2845ec3bea86793bca67d0b609a15d2d5933f5691b7cb47f8312d
 Section: Utilities
 Priority: standard
 Homepage: http://www.gnu.org/software/coreutils/
