@@ -77,3 +77,18 @@ Section: Utilities
 Priority: optional
 Description: process forests are hard to see for the trees
 
+Package: sed
+Version: 4.8
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/sed-4.8.deb
+Size: 91828
+MD5sum: eb8e16ac7b620eae7ebfa945eb42bc8a
+SHA1: 551a0c0fd9537af1e3243c7dbbbfe7d6eb9efc7f
+SHA256: dc10b811c648b25a9c6857eeeabe608e0a9f55be14b2072cb8274830329d1194
+Section: Utilities
+Priority: important
+Homepage: http://www.gnu.org/software/sed/
+Description: edits streams of text using patterns
+
