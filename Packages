@@ -48,3 +48,18 @@ Homepage: https://github.com/aligrudi/neatvi
 Description: A small vi/ex editor for editing bidirectional UTF-8 text
 Name: NeatVi
 
+Package: pstree
+Version: 2.39
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: adv-cmds
+Filename: ./debs/pstree-2.39.deb
+Size: 6020
+MD5sum: 4c330da52a3b8adb13790e2a27cfd3f0
+SHA1: 9e9188565f499d7cc7553bf5c4de673da4b6e834
+SHA256: 873351504dfa8d50e535932b944b10aea2db2c820974bf28f07fb15650f018ac
+Section: Utilities
+Priority: optional
+Description: process forests are hard to see for the trees
+
