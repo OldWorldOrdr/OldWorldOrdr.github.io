@@ -1,0 +1,19 @@
+Package: coreutils
+Version: 9.1
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: bash, coreutils-bin (>= 7.4-5), profile.d
+Replaces: netatalk (<= 2.0.3-6)
+Provides: md5sum, sha1sum
+Filename: ./debs/coreutils-9.1.deb
+Size: 1551256
+MD5sum: ec12b5eb7b5930eeea70e60615eeec37
+SHA1: 90e336608eb7e0bf56f96d35d3deaf1953bde2a0
+SHA256: 7c4cee27e484718df0c5670e6598388c7b998ea03a75593d3045c74269c510bd
+Section: Utilities
+Priority: standard
+Homepage: http://www.gnu.org/software/coreutils/
+Description: core set of Unix shell utilities from GNU
+Name: Core Utilities
+
