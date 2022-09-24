@@ -1,13 +1,13 @@
 Package: bash
-Version: 5.1.16-1
+Version: 5.1.16-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, ncurses, readline (>= 6.0-7), sed
 Filename: ./debs/bash-5.1.16.deb
-Size: 473852
-MD5sum: bbba700b2d6b77a8bdfd5b49f09db706
-SHA1: fde82a5808714498b0f1be6d94f8809610ebf28b
-SHA256: 657642c523b8c36585a3e5d81315757574702457e26595a779a79038ede3a368
+Size: 474140
+MD5sum: d2f3a5d9bd8b99d659476bfb7b8ca250
+SHA1: 76a072eb047aefb27e84c287cb4129a2c203a8cd
+SHA256: b81a4011df0caf096d9d66b185fa34c167c393823283fee172fd7ce2e3f05675
 Section: Terminal_Support
 Priority: required
 Homepage: http://www.gnu.org/software/bash/
@@ -32,23 +32,6 @@ Priority: standard
 Homepage: http://www.gnu.org/software/coreutils/
 Description: core set of Unix shell utilities from GNU
 Name: Core Utilities
-
-Package: dash
-Version: 5.1.16
-Architecture: iphoneos-arm
-Essential: yes
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: bash (>= 5.1.16-1)
-Filename: ./debs/dash-0.5.11.deb
-Size: 56044
-MD5sum: 284ab17283236619c59ae902f7c8daaf
-SHA1: 0b0d6c60c7f938c5a6c40db814ddc051ea7b7f8c
-SHA256: c5bfea89f26fb0c02d567fe9da43e277706e0f5b241875070f79e17882c67813
-Section: Terminal_Support
-Priority: required
-Homepage: https://git.kernel.org/pub/scm/utils/dash/dash.git
-Description: POSIX compliant shell that aims to be as small as possible
-Name: Debian Almquist Shell
 
 Package: gawk
 Version: 5.2.0
