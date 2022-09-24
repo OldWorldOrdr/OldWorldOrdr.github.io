@@ -33,6 +33,20 @@ Homepage: http://www.gnu.org/software/coreutils/
 Description: core set of Unix shell utilities from GNU
 Name: Core Utilities
 
+Package: gawk
+Version: 5.2.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/gawk-5.2.0.deb
+Size: 267372
+MD5sum: 043c55b3ffd557b70eb279dbb36f4e93
+SHA1: 67d2b7e8e52915f631eb24dbfbbbc68f97724ee2
+SHA256: d5401c39e0fe3b13cd033c89b963634faf1552c337524683a82d25a2f086d546
+Section: Utilities
+Priority: important
+Description: GNU's heavy-weight implementation of awk
+Name: Gawk
+
 Package: neatvi
 Version: 1.0
 Architecture: iphoneos-arm
