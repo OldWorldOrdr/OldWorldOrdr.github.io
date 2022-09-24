@@ -1,3 +1,19 @@
+Package: bash
+Version: 5.1.16
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: grep, ncurses, readline (>= 6.0-7), sed
+Filename: ./debs/bash-5.1.16.deb
+Size: 477424
+MD5sum: 1636d428f22b3d16188d079cd18d66cb
+SHA1: 699247584a86f52affd2dc4c1389efe41ef6ca0c
+SHA256: aa295b1d966e8a3eb9da10df1798764db28ffe2c46c65d9088758ea20624296b
+Section: Terminal_Support
+Priority: required
+Homepage: http://www.gnu.org/software/bash/
+Description: the best shell ever written by Brian Fox
+Name: Bourne-Again SHell
+
 Package: coreutils
 Version: 9.1
 Architecture: iphoneos-arm
