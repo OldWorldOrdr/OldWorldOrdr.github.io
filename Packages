@@ -36,13 +36,14 @@ Name: Core Utilities
 Package: dash
 Version: 5.1.16
 Architecture: iphoneos-arm
+Essential: yes
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: bash (>= 5.1.16-1)
 Filename: ./debs/dash-0.5.11.deb
-Size: 56184
-MD5sum: 5f3f73f5f9520e5e1c7c57320775593a
-SHA1: 6a92776768ecde82539e7c7dc490e6e01b95cd8d
-SHA256: e68df1f774ead0d741a7d0c4cd97aa2be6de889ec59bc7580d498c617ed9c92a
+Size: 56044
+MD5sum: 284ab17283236619c59ae902f7c8daaf
+SHA1: 0b0d6c60c7f938c5a6c40db814ddc051ea7b7f8c
+SHA256: c5bfea89f26fb0c02d567fe9da43e277706e0f5b241875070f79e17882c67813
 Section: Terminal_Support
 Priority: required
 Homepage: https://git.kernel.org/pub/scm/utils/dash/dash.git
