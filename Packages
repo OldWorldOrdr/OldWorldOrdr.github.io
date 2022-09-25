@@ -5,9 +5,9 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, ncurses, readline (>= 6.0-7), sed
 Filename: ./debs/bash-5.1.16.deb
 Size: 575968
-MD5sum: 54fefda00f332bdbf454b363bda12986
-SHA1: 5acfa1820879e87d5336dfe92b98ecce21aa617b
-SHA256: 7d3df766079cfbd4bbe4a4d93025080c8c502a3b32f63c4e023bfcafc9d29855
+MD5sum: a1e3dca835a476a71b1030e30718b0a7
+SHA1: 9ab4f0ab0eb63edd4e112fd8d9971617c433644e
+SHA256: ef8f3bef5e9f55654d9db0d8da13845d8c11c04363c7f02c550d987b193c724f
 Section: Terminal_Support
 Priority: required
 Homepage: http://www.gnu.org/software/bash/
@@ -23,10 +23,10 @@ Depends: bash, coreutils-bin (>= 7.4-5), profile.d
 Replaces: netatalk (<= 2.0.3-6)
 Provides: md5sum, sha1sum
 Filename: ./debs/coreutils-9.1.deb
-Size: 5377970
-MD5sum: 88bd0353adf1e4e4707fd7208ad50925
-SHA1: c01121ea4b924b541833e45b28a86fb3967dedd3
-SHA256: d21bc347b9daf00224d00342b5b8dd0365f5bf011aefbfb7804d9330829aa1a2
+Size: 5377964
+MD5sum: 584d896092bf4762e2dfb8dc9f39c702
+SHA1: bdb0df58bc6f6a4fb19479f744073b49457df93f
+SHA256: 2fe3ab623a5aaa1ca3bc730d25b9ba2eae13967775803c136f270044808a713b
 Section: Utilities
 Priority: standard
 Homepage: http://www.gnu.org/software/coreutils/
@@ -38,10 +38,10 @@ Version: 5.2.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/gawk-5.2.0.deb
-Size: 320242
-MD5sum: 778c9a5ecac251e9865aaa146578e6e4
-SHA1: 783bc08a0af652a586c1845c16bf4f35d1329ccc
-SHA256: 901d9e0430792d8955ec90fb0a21a88ac8e8f966b55fc6eca0eef0465063dede
+Size: 320246
+MD5sum: d221650c64ef19a0c8f2b6e3965f215c
+SHA1: 8a389e79c13a80ac970949682404ff1261980a7c
+SHA256: a51ab3a8fdef40e6060ef882853d57431279ca364eded19a27d334d841a6b467
 Section: Utilities
 Priority: important
 Description: GNU's heavy-weight implementation of awk
@@ -52,15 +52,30 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/neatvi-1.0.deb
-Size: 51678
-MD5sum: e3e986764359602346c2fc1cfc3346cc
-SHA1: 4200ff89d188ca208bffd0bae7537a8af8bbb605
-SHA256: 66c609d2689fafd11f1ed052e099b2e379357597c5373710cfac47f47fdde351
+Size: 51680
+MD5sum: 3b156d3569c34d46d9cda4639c99a597
+SHA1: 03cb198a8262bf1723e223fded35af4d0a3cf823
+SHA256: 25b583e10e278bd791ca62d55d794b13008a77563c85970f4b68718afcfa1b66
 Section: Text_Editors
 Priority: standard
 Homepage: https://github.com/aligrudi/neatvi
 Description: A small vi/ex editor for editing bidirectional UTF-8 text
 Name: NeatVi
+
+Package: neofetch
+Version: 7.1.1
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: coreutils, gawk, grep, bash, coreutils-bin, system-cmds, darwintools
+Filename: ./debs/neofetch-7.1.1.deb
+Size: 96096
+MD5sum: 370e98c6d27500f534bed485147fbd35
+SHA1: f47f7e4dea579b14104011e89c6ad99e85d106de
+SHA256: 38535e1aa2cd26d8021d517ef0dc12fd3496a90cb4c3f4472740939ec95ceb63
+Section: Terminal Support
+Description: A command-line system information tool written in bash 3.2+ from https://github.com/oldworldordr/neofetch
+Author: dylanaraps, oldworldorder
+Name: neofetch
 
 Package: pstree
 Version: 2.39
@@ -69,10 +84,10 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: adv-cmds
 Filename: ./debs/pstree-2.39.deb
-Size: 6782
-MD5sum: a4504c96c76c825fdd9c6aed39df48b6
-SHA1: 505b31821ea9ee31e1922b652e89e6ff61238875
-SHA256: 1e7d52336f294ea212626931f3da0375b61183097867c0b8c16554960b318c73
+Size: 6784
+MD5sum: 582e9eb4dbca2aaaff93d04768e0dd25
+SHA1: d0a1076d55427accd955263d0a0d48fb0a4a06f7
+SHA256: d5ca46788eec43cdddb5d1432da30b1ee986eff8d1051f06f197e587b1d0aa74
 Section: Utilities
 Priority: optional
 Description: process forests are hard to see for the trees
@@ -83,10 +98,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Filename: ./debs/sed-4.8.deb
-Size: 106136
-MD5sum: f4e4cf309d18ef0678cf28133206511f
-SHA1: 0239bca9fea143f7311719536ab5a6860cf6e4db
-SHA256: 785f00d72b4f3af92200af15e213bb93a746f5a5359e90da02ac2ce59a739a08
+Size: 106138
+MD5sum: be0031f494b3b1498d3a50751fae04c9
+SHA1: d86c3eb1bae9a34c1f240754443ba877ae0b6227
+SHA256: f0e5ee459524040970c372d66f6ed94a1fcdc30280822133702bc43b998bbcb3
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/sed/
