@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, ncurses, readline (>= 6.0-7), sed
 Filename: ./debs/bash-5.1.16.deb
-Size: 474140
-MD5sum: d2f3a5d9bd8b99d659476bfb7b8ca250
-SHA1: 76a072eb047aefb27e84c287cb4129a2c203a8cd
-SHA256: b81a4011df0caf096d9d66b185fa34c167c393823283fee172fd7ce2e3f05675
+Size: 575966
+MD5sum: 478794166984927760aa38e4f5cbd8d6
+SHA1: aeeddf937942bced7b2214d211553611632c6927
+SHA256: 9b76beff7abd77a100b3d8c108916936ef5e7abe8195e3ab22b1720fe790b7a5
 Section: Terminal_Support
 Priority: required
 Homepage: http://www.gnu.org/software/bash/
@@ -23,10 +23,10 @@ Depends: bash, coreutils-bin (>= 7.4-5), profile.d
 Replaces: netatalk (<= 2.0.3-6)
 Provides: md5sum, sha1sum
 Filename: ./debs/coreutils-9.1.deb
-Size: 1550648
-MD5sum: 42aea49c88c77633f656c44675ceeabb
-SHA1: 728580d116e2be25268192ecd96b1a2f7a2b45cf
-SHA256: 46ebc74a83a2845ec3bea86793bca67d0b609a15d2d5933f5691b7cb47f8312d
+Size: 5377972
+MD5sum: f7fa6e7f5b692457636c4cd844c1c459
+SHA1: 98391c97f42c19fc7f62f39774d8e9f2ef0e1ec3
+SHA256: 85143a961b0fe0e2a6b0572cd24d6957640b25eeb12ea1b567fdd2f19527b51c
 Section: Utilities
 Priority: standard
 Homepage: http://www.gnu.org/software/coreutils/
@@ -38,29 +38,29 @@ Version: 5.2.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/gawk-5.2.0.deb
-Size: 267372
-MD5sum: 043c55b3ffd557b70eb279dbb36f4e93
-SHA1: 67d2b7e8e52915f631eb24dbfbbbc68f97724ee2
-SHA256: d5401c39e0fe3b13cd033c89b963634faf1552c337524683a82d25a2f086d546
+Size: 320244
+MD5sum: 4ad949db56ede47092a0ba645bd2f930
+SHA1: 7321af8fda8a8c8f9e4206ab7a58c174872aa872
+SHA256: 1caf9ca628eb2e9e672fb60ed880da821e82ea8feed3d4cb6bb54b80501a6f46
 Section: Utilities
 Priority: important
 Description: GNU's heavy-weight implementation of awk
 Name: Gawk
 
-Package: neatvi
-Version: 1.0
+Package: nextvi
+Version: 4.20
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/neatvi-1.0.deb
-Size: 43644
-MD5sum: c82c031bdbd14b1fa91095a6b7c6e986
-SHA1: 797f7acf935097c957b56f681751dc023ff6bc2a
-SHA256: 68d94e922de7cd8189f30617b71e3d4d42d319df14d4dce7b53f2669e8bb9ee7
+Filename: ./debs/nextvi-4.20.deb
+Size: 76346
+MD5sum: 3f8f32ade83f11619195fa479d93b4f0
+SHA1: d66356013c8b310f62e6afde6ee897bc54580828
+SHA256: 79ba71a8bfd7ba137488800c267797f0602de3e47133716b1b74b279b574ade7
 Section: Text_Editors
 Priority: standard
-Homepage: https://github.com/aligrudi/neatvi
-Description: A small vi/ex editor for editing bidirectional UTF-8 text
-Name: NeatVi
+Homepage: https://github.com/kyx0r/nextvi
+Description: Next version of neatvi (a small vi/ex editor) for editing bidirectional UTF-8 text
+Name: Nextvi
 
 Package: pstree
 Version: 2.39
@@ -69,10 +69,10 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: adv-cmds
 Filename: ./debs/pstree-2.39.deb
-Size: 6020
-MD5sum: 4c330da52a3b8adb13790e2a27cfd3f0
-SHA1: 9e9188565f499d7cc7553bf5c4de673da4b6e834
-SHA256: 873351504dfa8d50e535932b944b10aea2db2c820974bf28f07fb15650f018ac
+Size: 6782
+MD5sum: f007c044b118cde8916acb5de6c11614
+SHA1: c097c99b043d2621686ef224d38e9dfdd18d874c
+SHA256: fef421fc6c0c58e3b76aef94624272ba457aa6bd8ec55c79ade238b8825a5552
 Section: Utilities
 Priority: optional
 Description: process forests are hard to see for the trees
@@ -83,10 +83,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Filename: ./debs/sed-4.8.deb
-Size: 91828
-MD5sum: eb8e16ac7b620eae7ebfa945eb42bc8a
-SHA1: 551a0c0fd9537af1e3243c7dbbbfe7d6eb9efc7f
-SHA256: dc10b811c648b25a9c6857eeeabe608e0a9f55be14b2072cb8274830329d1194
+Size: 106138
+MD5sum: f0ab2a6d1e90ff35ac8e57ecd14d4641
+SHA1: 96cb6eba315cccea13d390413a644f370086c9d1
+SHA256: c647b30a19c18e2faaa3d3dcb8d4a35d733bd73dbcc57b8b82fbf7eda953013c
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/sed/
