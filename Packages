@@ -47,6 +47,21 @@ Priority: important
 Description: GNU's heavy-weight implementation of awk
 Name: Gawk
 
+Package: io.github.oldworldordr.iconfix
+Version: 5.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: curl, coreutils-bin, bash
+Filename: ./debs/iconfix-5.0.deb
+Size: 1468
+MD5sum: 870d2522b24ccb55f3838c8e5cdf4ea9
+SHA1: 559b37d14c0b2a0510a628860685f26068497cef
+SHA256: 8e046366a5db4a23868966a744d9cbcf3331e0ce4b220ea6c59a0b364f9ca24b
+Section: Terminal Support
+Description: A shell script that fixes the iFile and MTerminal icons on iOS 6 and below.
+Author: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Name: iFile/MTerminal icon fix
+
 Package: neatvi
 Version: 1.0
 Architecture: iphoneos-arm
