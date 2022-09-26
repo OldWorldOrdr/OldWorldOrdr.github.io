@@ -4,14 +4,15 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, ncurses, readline (>= 6.0-7), sed
 Filename: ./debs/bash-5.1.16.deb
-Size: 575968
-MD5sum: a1e3dca835a476a71b1030e30718b0a7
-SHA1: 9ab4f0ab0eb63edd4e112fd8d9971617c433644e
-SHA256: ef8f3bef5e9f55654d9db0d8da13845d8c11c04363c7f02c550d987b193c724f
+Size: 575988
+MD5sum: cbadc11108465dfe537ada429da8d1eb
+SHA1: 0931e530f33bebc6fc90afb68cc9fe2da5e16091
+SHA256: cc30981c493dd9595cd448b59134b155079e41c3d20a1a1efae003f06a7485c1
 Section: Terminal_Support
 Priority: required
 Homepage: http://www.gnu.org/software/bash/
 Description: the best shell ever written by Brian Fox
+Tag: purpose::console
 Name: Bourne-Again SHell
 
 Package: coreutils
@@ -23,14 +24,15 @@ Depends: bash, coreutils-bin (>= 7.4-5), profile.d
 Replaces: netatalk (<= 2.0.3-6)
 Provides: md5sum, sha1sum
 Filename: ./debs/coreutils-9.1.deb
-Size: 5377964
-MD5sum: 584d896092bf4762e2dfb8dc9f39c702
-SHA1: bdb0df58bc6f6a4fb19479f744073b49457df93f
-SHA256: 2fe3ab623a5aaa1ca3bc730d25b9ba2eae13967775803c136f270044808a713b
+Size: 5377992
+MD5sum: b5b3a0f9762e54845d3a8e838ac62ee8
+SHA1: 705f8017269444cb124ff029d1d3abdda54c97e1
+SHA256: b3e85f12921ed50e12bbf96c9379a04d8660dadf02172a5e167a06738b074c49
 Section: Utilities
 Priority: standard
 Homepage: http://www.gnu.org/software/coreutils/
 Description: core set of Unix shell utilities from GNU
+Tag: purpose::console
 Name: Core Utilities
 
 Package: gawk
@@ -38,13 +40,14 @@ Version: 5.2.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/gawk-5.2.0.deb
-Size: 320246
-MD5sum: d221650c64ef19a0c8f2b6e3965f215c
-SHA1: 8a389e79c13a80ac970949682404ff1261980a7c
-SHA256: a51ab3a8fdef40e6060ef882853d57431279ca364eded19a27d334d841a6b467
+Size: 320268
+MD5sum: 02c776ad3007275cfed21bbf125e97d1
+SHA1: bc8da601d719a86cba637a7a1e77a269c379812c
+SHA256: c0d7e5902a5bf66767de7e93afcd4a92d3f85130504ddb9a41183dd59dac0150
 Section: Utilities
 Priority: important
 Description: GNU's heavy-weight implementation of awk
+Tag: purpose::console
 Name: Gawk
 
 Package: io.github.oldworldordr.iconfix
@@ -53,12 +56,13 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: curl, coreutils-bin, bash
 Filename: ./debs/iconfix-5.0.deb
-Size: 1468
-MD5sum: 870d2522b24ccb55f3838c8e5cdf4ea9
-SHA1: 559b37d14c0b2a0510a628860685f26068497cef
-SHA256: 8e046366a5db4a23868966a744d9cbcf3331e0ce4b220ea6c59a0b364f9ca24b
-Section: Terminal Support
-Description: A shell script that fixes the iFile and MTerminal icons on iOS 6 and below.
+Size: 1482
+MD5sum: 64c9c3dcd174945e2f93df0ea12571d8
+SHA1: cc67809c8e1ee78d408a003016b3542049480b02
+SHA256: 5c10e0c23b61b32f0ded486362de7dd4b0f6a00019fa1e3f3380bf08594043fe
+Section: Utilities
+Description: A package that fixes the iFile and MTerminal icons on iOS 6 and below.
+Tag: purpose::console
 Author: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Name: iFile/MTerminal icon fix
 
@@ -67,14 +71,15 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/neatvi-1.0.deb
-Size: 51680
-MD5sum: 3b156d3569c34d46d9cda4639c99a597
-SHA1: 03cb198a8262bf1723e223fded35af4d0a3cf823
-SHA256: 25b583e10e278bd791ca62d55d794b13008a77563c85970f4b68718afcfa1b66
+Size: 51708
+MD5sum: c213189ad3af11f6e2310782707647c2
+SHA1: 73c26a1d8a1770df520a76b8a157320bc0c5555a
+SHA256: 3c7c6759ba4d60c66d785168c62b4d81d53fe1849513ec47db7b23cbf0fa3b2c
 Section: Text_Editors
 Priority: standard
 Homepage: https://github.com/aligrudi/neatvi
 Description: A small vi/ex editor for editing bidirectional UTF-8 text
+Tag: purpose::console
 Name: NeatVi
 
 Package: neofetch
@@ -83,12 +88,13 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: coreutils, gawk, grep, bash, coreutils-bin, system-cmds, darwintools
 Filename: ./debs/neofetch-7.1.1.deb
-Size: 96090
-MD5sum: ca8a179db791fa48180046aadbc32871
-SHA1: d908918ceb8f04882c0c5cf195decc5b19fb7fee
-SHA256: 5f281155be4c1f709c19869f86905ec7d94c0afa8f652722bd58699eb296f3f4
+Size: 96110
+MD5sum: 8c6a873a9becd368d994a14befdecade
+SHA1: 7631d188d731a44234816651a6199aa634f86a8b
+SHA256: b809050752c93718c3af0fc7bd122856ec1a398c2624f59a7874aca252c6d651
 Section: Utilities
 Description: A command-line system information tool written in bash 3.2+ from https://github.com/oldworldordr/neofetch
+Tag: purpose::console
 Author: dylanaraps, oldworldorder
 Name: neofetch
 
@@ -99,13 +105,14 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: adv-cmds
 Filename: ./debs/pstree-2.39.deb
-Size: 6784
-MD5sum: 582e9eb4dbca2aaaff93d04768e0dd25
-SHA1: d0a1076d55427accd955263d0a0d48fb0a4a06f7
-SHA256: d5ca46788eec43cdddb5d1432da30b1ee986eff8d1051f06f197e587b1d0aa74
+Size: 6808
+MD5sum: 8424a69732648577f5c4812ee53acfb3
+SHA1: 7ef6524916cd953b23bd1124b68cb9fe55db3188
+SHA256: 64efdecc7697598c8e44d445037132ea6f99f90c200fcfb6e42ec1f6215b2896
 Section: Utilities
 Priority: optional
 Description: process forests are hard to see for the trees
+Tag: purpose::console
 
 Package: sed
 Version: 4.8
@@ -113,12 +120,13 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Filename: ./debs/sed-4.8.deb
-Size: 106138
-MD5sum: be0031f494b3b1498d3a50751fae04c9
-SHA1: d86c3eb1bae9a34c1f240754443ba877ae0b6227
-SHA256: f0e5ee459524040970c372d66f6ed94a1fcdc30280822133702bc43b998bbcb3
+Size: 106162
+MD5sum: 1bafa05b577edc98b7b7b2205150fda1
+SHA1: 996f730de795a628be0a5aad28c65c512346467f
+SHA256: e7a51112248ec843c050fba95af505adda842380a9bb7bd30626931e6ac8c0af
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/sed/
 Description: edits streams of text using patterns
+Tag: purpose::console
 
