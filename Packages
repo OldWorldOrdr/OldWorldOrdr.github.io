@@ -56,13 +56,12 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: curl, coreutils-bin, bash
 Filename: ./debs/iconfix-5.0.deb
-Size: 1484
-MD5sum: c65691710ed7d7b978396757648f33bb
-SHA1: eff76e27c4ed913f29b5d8caf78ad3b1a37ae16a
-SHA256: 14e3354d9a3c83316c3b7805f96725ae5bcf9b543079c80412592adae8b4d95d
+Size: 1466
+MD5sum: ab9cc66f1c8ecb2f43ba388adf0ffe22
+SHA1: ce317aa5ebd318c7844dcfe3f1f87115886302e4
+SHA256: 9b42edc0189ab33034ea92d9f9f95df3439e579b6e1f435e152ad16ff6ba9c54
 Section: Utilities
 Description: A package that fixes the iFile and MTerminal icons on iOS 6 and below.
-Tag: purpose::console
 Author: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Name: iFile/MTerminal icon fix
 
