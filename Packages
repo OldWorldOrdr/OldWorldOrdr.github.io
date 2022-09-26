@@ -136,10 +136,10 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: ncurses
 Filename: ./debs/zsh-5.9.deb
-Size: 2251130
-MD5sum: 8e07a5cb6aca89c7b8d5ec4535603c9c
-SHA1: b946bf4208abd552792bc9c1756346e912acf161
-SHA256: 63aa21707d20c453a0084ba3ee7a7e47a3ee5db7c977cb02dd3446d9b5ab8d2d
+Size: 3112236
+MD5sum: cb6fdf797cd61d27381f7313baa72758
+SHA1: 8cca08803938e8baec6d3fa577bba4cc8c8de8f6
+SHA256: fa8707777609d6e8b779e598a37fff8c914d19a3f4d598f55beb21dc2376b968
 Section: Terminal_Support
 Priority: optional
 Description: a shell with interactive features
