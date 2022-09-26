@@ -129,3 +129,20 @@ Homepage: http://www.gnu.org/software/sed/
 Description: edits streams of text using patterns
 Tag: purpose::console
 
+Package: zsh
+Version: 5.9
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: ncurses
+Filename: ./debs/zsh-5.9.deb
+Size: 2251130
+MD5sum: 8e07a5cb6aca89c7b8d5ec4535603c9c
+SHA1: b946bf4208abd552792bc9c1756346e912acf161
+SHA256: 63aa21707d20c453a0084ba3ee7a7e47a3ee5db7c977cb02dd3446d9b5ab8d2d
+Section: Terminal_Support
+Priority: optional
+Description: a shell with interactive features
+Tag: purpose::console
+Name: Z Shell
+
