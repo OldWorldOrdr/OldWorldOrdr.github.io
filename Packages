@@ -50,6 +50,22 @@ Description: GNU's heavy-weight implementation of awk
 Tag: purpose::console
 Name: Gawk
 
+Package: grep
+Version: 3.8
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/grep-3.8.deb
+Size: 132998
+MD5sum: 0111ccdf6b246ae0c457231e7486b4f5
+SHA1: f6432692d84690b320eb97b5d58a5397f963c8ba
+SHA256: 18d8d0eab632c1d3dda6c8a2744fe25bc725e860e64974fdbe782a1a04b7e50c
+Section: Utilities
+Priority: important
+Homepage: http://www.gnu.org/software/grep/
+Description: searches files for regular expressions
+Tag: purpose::console
+
 Package: io.github.oldworldordr.iconfix
 Version: 5.0
 Architecture: iphoneos-arm
