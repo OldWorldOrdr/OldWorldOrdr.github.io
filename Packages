@@ -133,6 +133,23 @@ Tag: purpose::console
 Author: dylanaraps, oldworldorder
 Name: neofetch
 
+Package: profile.d
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: bash
+Filename: ./debs/profile.d-1.0.deb
+Size: 948
+MD5sum: f06b8f6f8a4e0bc850d386568e1a6716
+SHA1: be1e3df98cac1fa562d396846e8fa39c34ad8a7e
+SHA256: 3f531204f0040bdef107406bf814ee51cc27990d3e29d9187ddd5dea1f4a0819
+Section: Administration
+Priority: standard
+Description: makes packaging for /etc/profile reasonable
+Tag: purpose::console
+Name: Profile Directory
+
 Package: pstree
 Version: 2.39
 Architecture: iphoneos-arm
