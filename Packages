@@ -151,23 +151,6 @@ Description: A package that fixes the iFile and MTerminal icons on iOS 6 and bel
 Author: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Name: iFile/MTerminal icon fix
 
-Package: neatvi
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: firmware (>= 5.1)
-Filename: ./debs/neatvi-1.0.deb
-Size: 52004
-MD5sum: 2aca115462501842f3a384f130b9b75f
-SHA1: 751df56d1fdfe08fae2709146183b7d747045809
-SHA256: 4ccc4957f769f60dabee50091a13aba8e92183078b50a3b8faa6d001c965fc2f
-Section: Text_Editors
-Priority: standard
-Homepage: https://github.com/aligrudi/neatvi
-Description: A small vi/ex editor for editing bidirectional UTF-8 text
-Tag: purpose::console
-Name: NeatVi
-
 Package: neofetch
 Version: 7.1.1
 Architecture: iphoneos-arm
