@@ -15,6 +15,22 @@ Description: the best shell ever written by Brian Fox, now including dash
 Tag: purpose::console
 Name: Bourne-Again SHell
 
+Package: bzip2
+Version: 1.0.8
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: firmware (>= 5.1)
+Filename: ./debs/bzip2-1.0.8.deb
+Size: 50824
+MD5sum: 67741e195a4dc0c63ff52d7d04bb952f
+SHA1: 995e7ab28d2d85abd7cb43b552393185a015bbce
+SHA256: 36d97baa6362fe346a37b6a458a5299b9f262a8d39aeb24fa6a55016aed938f2
+Section: Archiving
+Priority: important
+Homepage: http://www.bzip.org/
+Description: compression that's slightly better than gzip
+Tag: purpose::console
+
 Package: coreutils
 Version: 9.1
 Architecture: iphoneos-arm
