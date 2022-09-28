@@ -71,6 +71,23 @@ Description: just the /bin folder from GNU coreutils
 Tag: purpose::console
 Name: Core Utilities (/bin)
 
+Package: diffutils
+Version: 3.8
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: firmware (>= 5.1)
+Filename: ./debs/diffutils-3.8.deb
+Size: 197480
+MD5sum: bd22c5631d0fc0b7a0cc45ddca0575de
+SHA1: f1de38439ff731f2eeb8d6f6e13b829b61796c6a
+SHA256: e3e1ff6d544729e0366384367fc5c9cc3c9f8174e21c87f0bb89c702d7e7f201
+Section: Development
+Priority: important
+Homepage: http://www.gnu.org/software/diffutils/
+Description: compare two files for differences
+Tag: purpose::console
+Name: Diff Utilities
+
 Package: file
 Version: 5.43
 Architecture: iphoneos-arm
