@@ -269,15 +269,15 @@ Tag: purpose::console
 Name: Tape Archive
 
 Package: xz-utils
-Version: 5.2.6
+Version: 5.3.0-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, sed, lzma, firmware (>= 5.1)
 Filename: ./debs/xz-5.2.6.deb
-Size: 486476
-MD5sum: 2f48b561adc8c43b989229e06e952540
-SHA1: 22357eac10d023dfeeb4a6d59ad294810e17d72e
-SHA256: bccef9012bea131b865fd3fd0b82d271b3b77803cd07add120efea063ebaf10d
+Size: 486478
+MD5sum: 52c025e5e5257d2c1b7fc42334a7d20b
+SHA1: b16279ec0869a7775b2119098e08215c2d7a1eda
+SHA256: bb2d4a9cc657600086c0df9f7bf3b7d4ffb9ebd00a0086039fd223ead2f4d526
 Section: Archiving
 Priority: optional
 Homepage: http://tukaani.org/xz/
