@@ -44,10 +44,10 @@ Depends: firmware (>= 5.1)
 Replaces: shell-cmds (<< 118-5), coreutils (<= 7.2-9)
 Provides: dirname, kill, mktemp, su
 Filename: ./debs/coreutils-bin-9.1.deb
-Size: 711086
-MD5sum: 4c0f0732efa5989f06c4bfee39533699
-SHA1: 3ea06fe149d6a379b5dbf97b46e31d0998a5f327
-SHA256: 2c80ce4c2b9bc80186940bfa684b7324dcc4d52c9fc376984c89a3c1daf4309f
+Size: 753078
+MD5sum: 83a0797646bf2c7e6c44aec9aceebce1
+SHA1: f125b9c00f5b355d9df69bcf77c08497563246fc
+SHA256: 2256ed8dc7a07f85206752c2fa197b43ccdcf87a0d00b37d7dcbe2a71d441971
 Section: Utilities
 Priority: required
 Homepage: http://www.gnu.org/software/coreutils/
