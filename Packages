@@ -187,6 +187,20 @@ Homepage: http://www.gnu.org/software/sed/
 Description: edits streams of text using patterns
 Tag: purpose::console
 
+Package: sudo
+Version: 1.9.11p3
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/sudo-1.9.11p3.deb
+Size: 142216
+MD5sum: 7b021c494b1019bcdbcca1ff03117703
+SHA1: 23de297271c9073adc46201c81fcaa081e8576a5
+SHA256: 3e93647494b8df2c99e1b1c5d413cf2f6bfe0c1c48d7c333d5097c4d5ec6fffb
+Section: Administration
+Priority: standard
+Description: temporarily assume root priviledges
+Name: Sudo
+
 Package: zsh
 Version: 5.9
 Architecture: iphoneos-arm
