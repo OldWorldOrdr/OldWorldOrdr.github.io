@@ -158,12 +158,12 @@ Version: 2.39
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: adv-cmds
+Depends: adv-cmds, firmware (>= 5.1)
 Filename: ./debs/pstree-2.39.deb
-Size: 6816
-MD5sum: 5d9a8817bd35b0e690a71dbc09fd5e7a
-SHA1: 73f4aa858b9bb266bb4224eb727720992622e45e
-SHA256: d22b41f10220b62f440b3ce02a0ce4abcc12a151e05151a360876b263a27647f
+Size: 7042
+MD5sum: 3b845066c18f989fc16b38921f5499a9
+SHA1: 5ce8835ecb514aa1e796f7c90295d1ab7b440fd6
+SHA256: 11d12b6536e7b25483b87068b8bbdada86856575b9c6211e0a359ee5768702fb
 Section: Utilities
 Priority: optional
 Description: process forests are hard to see for the trees
