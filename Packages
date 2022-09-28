@@ -274,10 +274,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses, firmware (>= 5.1)
 Filename: ./debs/vim-9.0.0618.deb
-Size: 10438620
-MD5sum: 1ad47123319debc56b667472a9981f4e
-SHA1: b16f19a0cda5cb6d1eb6f93321b7b01af2a9fb22
-SHA256: 68330619a487f94f3cb581fec4d8d2a7b8ee9b330db366f8df84ab381063d84e
+Size: 10438626
+MD5sum: 8f8dc7339230f1447e332d268913e424
+SHA1: ac114c0d35d1941b79e6c47af8daeae0027ea276
+SHA256: bd8873fd5dd5302ec3ae6ed19b784e9b3c04204519409c638182a51ba960aed8
 Section: Text_Editors
 Priority: standard
 Description: the best syntax highlighter, ever
