@@ -268,6 +268,41 @@ Description: tool for making tape archives
 Tag: purpose::console
 Name: Tape Archive
 
+Package: xz-utils
+Version: 5.2.6
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: grep, sed, lzma, firmware (>= 5.1)
+Filename: ./debs/xz-5.2.6.deb
+Size: 486476
+MD5sum: 2f48b561adc8c43b989229e06e952540
+SHA1: 22357eac10d023dfeeb4a6d59ad294810e17d72e
+SHA256: bccef9012bea131b865fd3fd0b82d271b3b77803cd07add120efea063ebaf10d
+Section: Archiving
+Priority: optional
+Homepage: http://tukaani.org/xz/
+Description: XZ-format compression utilities
+ XZ is the successor to the Lempel-Ziv/Markov-chain Algorithm
+ compression format, which provides memory-hungry but powerful
+ compression (often better than bzip2) and fast, easy decompression.
+ .
+ This package provides the command line tools for working with XZ
+ compression, including xz, unxz, xzcat, xzgrep, and so on. They can
+ also handle the older LZMA format, and if invoked via appropriate
+ symlinks will emulate the behavior of the commands in the lzma
+ package.
+ .
+ The XZ format is similar to the older LZMA format but includes some
+ improvements for general use:
+ .
+ * 'file' magic for detecting XZ files;
+ * crc64 data integrity check;
+ * limited random-access reading support;
+ * improved support for multithreading (not used in xz-utils);
+ * support for flushing the encoder.processes viewer
+Tag: purpose::console, role::hacker
+Name: XZ Utils
+
 Package: zsh
 Version: 5.9
 Architecture: iphoneos-arm
