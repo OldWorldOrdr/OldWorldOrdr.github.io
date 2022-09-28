@@ -201,6 +201,21 @@ Description: process forests are hard to see for the trees
 Tag: purpose::console
 Name: Process Tree
 
+Package: readline
+Version: 8.2
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: ncurses, firmware (>= 5.1)
+Filename: ./debs/readline-8.2.deb
+Size: 184556
+MD5sum: f581a01b2ed82d2f226218c1216d530c
+SHA1: 9b5362c2864e968168b04f19ff7aa8a260e46d6d
+SHA256: de1d74d26ed624d2e4cca4883a299a9b49202f6b748b851e5653e73d218bd516
+Section: Development
+Priority: required
+Description: command-line history management
+
 Package: sed
 Version: 4.8
 Architecture: iphoneos-arm
