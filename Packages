@@ -1,17 +1,17 @@
 Package: bash
-Version: 5.1.16-2
+Version: 5.2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, ncurses, readline (>= 6.0-7), sed
-Filename: ./debs/bash-5.1.16.deb
-Size: 575988
-MD5sum: 72fab4edbe869d987b636f4ed240ce54
-SHA1: c414df705f935675a9bef1b32f4183136fcb689e
-SHA256: c0abb7154801874b5a53b223de17b41cfa0e1a92328f7cc6525e19d394ecb363
+Filename: ./debs/bash-5.2.deb
+Size: 657196
+MD5sum: f836fa53d2cde44f1a56966150defae7
+SHA1: df029781da3a8ac6cdc5f91dacb4fd2b016803fc
+SHA256: 4f3d852fff0cc695d5bdf3c89972e96c688c8fecdec202c9b29d827e82ad9e3f
 Section: Terminal_Support
 Priority: required
 Homepage: http://www.gnu.org/software/bash/
-Description: the best shell ever written by Brian Fox
+Description: the best shell ever written by Brian Fox, now including dash
 Tag: purpose::console
 Name: Bourne-Again SHell
 
@@ -24,10 +24,10 @@ Depends: bash, coreutils-bin (>= 7.4-5), profile.d
 Replaces: netatalk (<= 2.0.3-6)
 Provides: md5sum, sha1sum
 Filename: ./debs/coreutils-9.1.deb
-Size: 5377992
-MD5sum: 205caf76a19327f33fc80b0ef97561b6
-SHA1: 7a937143614a9c183f5ccd8634156a943f1d7cf9
-SHA256: 6e95e4b87937735b76e96d831f99dd81031c714dd642fb6aa1c309ad0728016a
+Size: 5377988
+MD5sum: cf903346f3be6cf74b7adbc011b6d46d
+SHA1: ae52934762b2c2d7321e5f12a42ce4c02a10b2a1
+SHA256: 0de4e294cc560fff5eae353182c7021c3f783f09ed803eb488263cf4c473608a
 Section: Utilities
 Priority: standard
 Homepage: http://www.gnu.org/software/coreutils/
@@ -41,9 +41,9 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/gawk-5.2.0.deb
 Size: 320268
-MD5sum: 42ba6fd1344a856c018b90e741bcef41
-SHA1: da90bbb293b6bb89abeb3d6c27177b5eee5a8593
-SHA256: 5826b5a1a2b84c00997c0135cf9c411b4c8d7c2ff3af316afc70238bd6bfe291
+MD5sum: 0c5f22b3c1257cb7bc5e4cd3b5f246de
+SHA1: 59536b261bedaf529e7380214231248de379ecc5
+SHA256: 43d75e8a69ea9c1a8ef39ac9476ac3f70c60473093e6b1f53d4d59bbde75c579
 Section: Utilities
 Priority: important
 Description: GNU's heavy-weight implementation of awk
@@ -56,10 +56,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Filename: ./debs/grep-3.8.deb
-Size: 133002
-MD5sum: bdb7252d5631d08e6d8ef0af100d35c5
-SHA1: 4c7d334967bf46dd28a1d4d6abf60225a91ec943
-SHA256: ba5702bc88a45dfb0da30e3ea9dc9f4ef8bc050479f7d7fb0da78de989868fbf
+Size: 133006
+MD5sum: 816e3d6ffb69303119ad6d25591b53e0
+SHA1: bacb7927dbb8a21bb859be4771aebc455882b4ea
+SHA256: 3b397496dbffb2cb77d4612472d5eb069f0bbbcc8ef86b9be1cb9b4c2580e1e5
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/grep/
@@ -73,9 +73,9 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: curl, coreutils-bin, bash
 Filename: ./debs/iconfix-5.0.deb
 Size: 1468
-MD5sum: e0f29ac91f4faeb0bb1853636740969a
-SHA1: bf8cbdc5f721113522dcac3569b52061b875a175
-SHA256: 30d84b93592cd8aa7d7163a8cfec59f771b749272f6cac8e1a5fc5c1c8d26912
+MD5sum: eb2d93ef5eb7eb26beab791a6f83d760
+SHA1: ad6ae0a4be7951e76739230998511223a9bf651a
+SHA256: 04af12f44f8e0f51667b55a00358c0617d9d546734e6f80600025bb56b2284c3
 Section: Utilities
 Description: A package that fixes the iFile and MTerminal icons on iOS 6 and below.
 Author: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
@@ -87,9 +87,9 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/neatvi-1.0.deb
 Size: 51708
-MD5sum: dca26b93d63061a95a14e333a6936e21
-SHA1: e2be5109a3a0d0f549a29ec22c9f9cd40af322ff
-SHA256: 75ed6cf02e8fbcd77abbe19c29458af0b573a19e9394160728621faa66358a11
+MD5sum: a0c1fe72750de69fc8491a4beb713766
+SHA1: 20fa54b6a45a38cc0d06c4c5eb25a665fea5dfb9
+SHA256: 2cdd31a0e9e8c7bb3475c785e75938c6bd48ab5429f7bb2a222b17bc7b85bb5c
 Section: Text_Editors
 Priority: standard
 Homepage: https://github.com/aligrudi/neatvi
@@ -104,9 +104,9 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: coreutils, gawk, grep, bash, coreutils-bin, system-cmds, darwintools
 Filename: ./debs/neofetch-7.1.1.deb
 Size: 96112
-MD5sum: 801926f82a0f2ee53e269da7ee78747c
-SHA1: a75ae541088912535f202669377fd7ea294d36ed
-SHA256: 3c5095eb93ff4d285ad32a941359bf818f16975ff77dfa7d5355b3f0fea75497
+MD5sum: 0a3ee3baca5c46146c27082a59987169
+SHA1: 44992a29f90b49b613aacea81032907e06e1fcb6
+SHA256: 41799432e18f65ce107acdfc5ee8eba33e707f4b10e158f30ca4861032550f3a
 Section: Utilities
 Description: A command-line system information tool written in bash 3.2+ from https://github.com/oldworldordr/neofetch
 Tag: purpose::console
@@ -120,10 +120,10 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: adv-cmds
 Filename: ./debs/pstree-2.39.deb
-Size: 6814
-MD5sum: ef88869735500769d7d1cf0cf16642dd
-SHA1: 74e7245b2e8234e9b4bdbc1a2c04cb81d03dc357
-SHA256: 605148cf6b0800ead360b2e21f8677ba6fb300823e8f8f34939baf4a8f45213f
+Size: 6816
+MD5sum: 5d9a8817bd35b0e690a71dbc09fd5e7a
+SHA1: 73f4aa858b9bb266bb4224eb727720992622e45e
+SHA256: d22b41f10220b62f440b3ce02a0ce4abcc12a151e05151a360876b263a27647f
 Section: Utilities
 Priority: optional
 Description: process forests are hard to see for the trees
@@ -137,9 +137,9 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Filename: ./debs/sed-4.8.deb
 Size: 106160
-MD5sum: 816a4cc370527a7197acc722ff6bc488
-SHA1: ca7ed4eb50b8bb6c383fb55bf3af1de080b8ff27
-SHA256: 7f7d6f51a990e406d38926f789e66029bc6408a864e36b5584a1cdbaf6e88c40
+MD5sum: fb4c0f97ce2a49a41ed5834050ebda55
+SHA1: a37c50970615c3a669f4c89d88ecda946d53dd26
+SHA256: 411f6c1e5f142922041037f954d871bb38bb3c1c1f49ab628acb55deeabae189
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/sed/
@@ -153,10 +153,10 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: ncurses
 Filename: ./debs/zsh-5.9.deb
-Size: 2252270
-MD5sum: ddda49b690d9797e285f9f70b6e5e071
-SHA1: 0c6b2fae5d9d7f69c9594cf445bf7525f19a124c
-SHA256: 86718b8b21deb6c10a2f92499273b42bc9c0cc604fd5ef3edd1f3cdb239ceece
+Size: 2252272
+MD5sum: c2560536452bd62181c789393fc931bd
+SHA1: 43b55504a1bca773af82a1dfc7241a0542b186c4
+SHA256: 5bb95b60a232ad6a31be2b260d3843cba08ec0fb45a8cb72907c881148eb8624
 Section: Terminal_Support
 Priority: optional
 Description: a shell with interactive features
