@@ -104,6 +104,23 @@ Priority: important
 Description: guesses the type of a file from contents
 Tag: purpose::console
 
+Package: findutils
+Version: 4.9.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: bash, sed, firmware (>= 5.1)
+Filename: ./debs/findutils-4.9.0.deb
+Size: 332376
+MD5sum: b0ab48ae0f380f7fc0aacf974338e7e2
+SHA1: 614f50fe895ff461ffb96ce4557272890b72ceb0
+SHA256: ad1eddc701f70aa851035358785811f9d58b90d20348edcc5d2d5a73e3d66a77
+Section: Utilities
+Priority: important
+Homepage: http://www.gnu.org/software/findutils/
+Description: indexes and searches filesystems
+Tag: purpose::console
+Name: Find Utilities
+
 Package: gawk
 Version: 5.2.0
 Architecture: iphoneos-arm
