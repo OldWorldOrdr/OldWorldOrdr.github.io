@@ -174,11 +174,12 @@ Version: 4.8
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware (>= 5.1)
 Filename: ./debs/sed-4.8.deb
-Size: 106160
-MD5sum: fb4c0f97ce2a49a41ed5834050ebda55
-SHA1: a37c50970615c3a669f4c89d88ecda946d53dd26
-SHA256: 411f6c1e5f142922041037f954d871bb38bb3c1c1f49ab628acb55deeabae189
+Size: 106364
+MD5sum: 7c0000c6ad9616c3fcdce41516881673
+SHA1: 1c263e2f88afd968d398db1a12fa14bc26b3ebae
+SHA256: 1b21268703ed696f58ae4d34bd06f7ac52a40f2cc1e3065086c24bbf5cce5bb7
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/sed/
