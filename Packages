@@ -105,11 +105,12 @@ Package: neatvi
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: firmware (>= 5.1)
 Filename: ./debs/neatvi-1.0.deb
-Size: 51708
-MD5sum: a0c1fe72750de69fc8491a4beb713766
-SHA1: 20fa54b6a45a38cc0d06c4c5eb25a665fea5dfb9
-SHA256: 2cdd31a0e9e8c7bb3475c785e75938c6bd48ab5429f7bb2a222b17bc7b85bb5c
+Size: 52004
+MD5sum: 2aca115462501842f3a384f130b9b75f
+SHA1: 751df56d1fdfe08fae2709146183b7d747045809
+SHA256: 4ccc4957f769f60dabee50091a13aba8e92183078b50a3b8faa6d001c965fc2f
 Section: Text_Editors
 Priority: standard
 Homepage: https://github.com/aligrudi/neatvi
