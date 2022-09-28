@@ -15,26 +15,6 @@ Description: the best shell ever written by Brian Fox, now including dash
 Tag: purpose::console
 Name: Bourne-Again SHell
 
-Package: coreutils
-Version: 9.1
-Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: bash, coreutils-bin (>= 7.4-5), profile.d
-Replaces: netatalk (<= 2.0.3-6)
-Provides: md5sum, sha1sum
-Filename: ./debs/coreutils-9.1.deb
-Size: 5377988
-MD5sum: cf903346f3be6cf74b7adbc011b6d46d
-SHA1: ae52934762b2c2d7321e5f12a42ce4c02a10b2a1
-SHA256: 0de4e294cc560fff5eae353182c7021c3f783f09ed803eb488263cf4c473608a
-Section: Utilities
-Priority: standard
-Homepage: http://www.gnu.org/software/coreutils/
-Description: core set of Unix shell utilities from GNU
-Tag: purpose::console
-Name: Core Utilities
-
 Package: gawk
 Version: 5.2.0
 Architecture: iphoneos-arm
