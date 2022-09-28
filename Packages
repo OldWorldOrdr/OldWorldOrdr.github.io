@@ -92,16 +92,17 @@ Package: gzip
 Version: 1.12
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: grep, sed
+Depends: grep, sed, firmware (>= 5.1)
 Filename: ./debs/gzip-1.12.deb
-Size: 78142
-MD5sum: 6b85b7947228135312ae1ea46bf11ebe
-SHA1: d95e675b71b3616d15a3b38af9c9e7cff4832a66
-SHA256: c260577a648bccf31963149022f1d0aa178c53f1fee80b74c04d1b3a9e31691d
+Size: 78182
+MD5sum: bcc2c68d2f9d42a4f4bcbdc21e5e522a
+SHA1: dc6c02b133b90f7b083ff44232030763168eaf51
+SHA256: 2e8c548d7578b3e7ce8ce46f26b4c8d15394cce0674f627c1e64ad285bcf39c0
 Section: Archiving
 Priority: required
 Homepage: http://www.gzip.org/
 Description: the standard Unix compression algorithm
+Tag: purpose::console
 
 Package: io.github.oldworldordr.iconfix
 Version: 5.0
