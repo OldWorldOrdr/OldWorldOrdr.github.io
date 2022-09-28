@@ -268,6 +268,22 @@ Description: tool for making tape archives
 Tag: purpose::console
 Name: Tape Archive
 
+Package: vim
+Version: 9.0.0618
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: ncurses, firmware (>= 5.1)
+Filename: ./debs/vim-9.0.0618.deb
+Size: 10438620
+MD5sum: 1ad47123319debc56b667472a9981f4e
+SHA1: b16f19a0cda5cb6d1eb6f93321b7b01af2a9fb22
+SHA256: 68330619a487f94f3cb581fec4d8d2a7b8ee9b330db366f8df84ab381063d84e
+Section: Text_Editors
+Priority: standard
+Description: the best syntax highlighter, ever
+Tag: purpose::console
+Name: Vi IMproved
+
 Package: xz-utils
 Version: 5.3.0-1
 Architecture: iphoneos-arm
