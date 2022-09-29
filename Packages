@@ -200,6 +200,24 @@ Description: A package that fixes the iFile and MTerminal icons on iOS 6 and bel
 Author: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Name: iFile/MTerminal icon fix
 
+Package: less
+Version: 608
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: ncurses, firmware (>= 5.1)
+Replaces: system-cmds (<= 433.4-11)
+Provides: more
+Filename: ./debs/less-608.deb
+Size: 116380
+MD5sum: 00dec1114d98e417a98d6179c5dbd985
+SHA1: cbc965c372aac3046238f2715d43e17c066fc0ae
+SHA256: 0f2a097d2e5965eb7ada6882855b4573e4992f738e874f0d7b41347ec7372b9e
+Section: Utilities
+Priority: important
+Description: provides less information than more does
+Tag: purpose::console
+
 Package: neofetch
 Version: 7.1.1
 Architecture: iphoneos-arm
