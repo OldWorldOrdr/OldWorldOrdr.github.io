@@ -88,6 +88,21 @@ Description: compare two files for differences
 Tag: purpose::console
 Name: Diff Utilities
 
+Package: ed
+Version: 1.18
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: firmware (>= 5.1)
+Filename: ./debs/ed-1.18.deb
+Size: 25422
+MD5sum: dade98d63128ea88915166ed8ae9d91f
+SHA1: 0cbc4533e315ea7ce2496fc6b5500f0c569643ec
+SHA256: bdc3a117c135448e7737d1651d4165ce096a2ce991f12b679282cb2d46a158e1
+Section: Text_Editors
+Priority: important
+Description: the standard text editor, 'nuff said
+Tag: purpose::console
+
 Package: file
 Version: 5.43
 Architecture: iphoneos-arm
