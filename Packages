@@ -1,17 +1,17 @@
 Package: bash
-Version: 5.2-1
+Version: 5.2-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, ncurses, readline (>= 6.0-7), sed, firmware (>= 5.1)
 Filename: ./debs/bash-5.2.deb
-Size: 657310
-MD5sum: 840b1f3e9877201728d6627572b12866
-SHA1: 74e8dafc8cdf1959306017d2453f6b5715869638
-SHA256: f0b60cf99184c67922998b74e4552bd47ad7b95c946cce1f3efb7f602a9a4e09
+Size: 592444
+MD5sum: d91ed6e9b45ed023bceb1180181dc48e
+SHA1: d775207ce2c6d724b83e05a7321c64720184b6c4
+SHA256: e27573ffbf3cc20d9e030647672b27766d7184013a590cd97da570560e388ece
 Section: Terminal_Support
 Priority: required
 Homepage: http://www.gnu.org/software/bash/
-Description: the best shell ever written by Brian Fox, now including dash
+Description: the best shell ever written by Brian Fox
 Tag: purpose::console
 Name: Bourne-Again SHell
 
