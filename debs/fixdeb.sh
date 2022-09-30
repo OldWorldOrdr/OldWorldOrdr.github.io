@@ -10,10 +10,4 @@ case $1 in
     ;;
 esac
 
-for i in *.deb; do
-    echo "$i"
-    dpkg-deb -R "$i" "$i.extract"
-    rm "$i"
-    dpkg-deb -b --root-owner-group -Zgzip "$i.extract" "$i"
-    rm -rf "$i.extract"
-done
+printf "Usage: %s <file.deb>\n" "$0"
