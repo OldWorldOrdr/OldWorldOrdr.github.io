@@ -1,13 +1,13 @@
 Package: bash
-Version: 5.2
+Version: 5.2-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: grep, ncurses, readline (>= 6.0-7), sed
+Depends: grep, ncurses, readline (>= 6.0-7), sed, firmware (>= 5.1)
 Filename: ./debs/bash-5.2.deb
-Size: 657196
-MD5sum: f836fa53d2cde44f1a56966150defae7
-SHA1: df029781da3a8ac6cdc5f91dacb4fd2b016803fc
-SHA256: 4f3d852fff0cc695d5bdf3c89972e96c688c8fecdec202c9b29d827e82ad9e3f
+Size: 657312
+MD5sum: 6e552777618ab21f7fab3d2784d5faaa
+SHA1: 3d14fd832f00a0151305d81e8d721494acd6088e
+SHA256: 30955cbf5331ceee42feb78c842dd423c5216a63aaef58be9c6fe1f14e234d0a
 Section: Terminal_Support
 Priority: required
 Homepage: http://www.gnu.org/software/bash/
