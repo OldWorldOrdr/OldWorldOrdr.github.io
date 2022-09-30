@@ -301,15 +301,15 @@ Description: edits streams of text using patterns
 Tag: purpose::console
 
 Package: sudo
-Version: 1.9.11p3
+Version: 1.9.11p3-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: firmware (>= 5.1)
 Filename: ./debs/sudo-1.9.11p3.deb
-Size: 384554
-MD5sum: ab660230fa01d93d358026857f375509
-SHA1: 423a9dc6c81f25c0df0a181b8df86af1651cd1ee
-SHA256: d373eacf13616f253fbf8d5930f89f8ef09e0c6ac7a75311729f89647bc34632
+Size: 1086360
+MD5sum: 9ecc484b4301b021ed0e7cb23aee4bad
+SHA1: 883ad014f920105da056d9e669d640e0e221d503
+SHA256: 33e28cc43042bba0b3a75c7cb5245ff3662d10aab2019d8153d080e3363f5ea0
 Section: Administration
 Priority: standard
 Description: temporarily assume root priviledges
