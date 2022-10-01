@@ -1,3 +1,37 @@
+Package: autoconf
+Version: 2.71
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: m4, firmware (>= 5.1)
+Filename: ./debs/autoconf-2.71.deb
+Size: 578832
+MD5sum: b82a0f484266d50d7dc0303537d3a3f3
+SHA1: a78a41f4ec463d7e2f535f6216c3c01c418d784e
+SHA256: 43b29d409a2163fba9d1f7a75b1124088a7bc223234b6c6fd9e3f6399d36668d
+Section: Development
+Priority: optional
+Homepage: http://www.gnu.org/software/autoconf/
+Description: an intricate set of m4 macros
+Tag: purpose::console
+Name: Autoconf
+
+Package: automake
+Version: 1.16
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: autoconf, firmware (>= 5.1)
+Filename: ./debs/automake-1.16.deb
+Size: 386156
+MD5sum: ad6e4f0adb09746960457e5532f75199
+SHA1: 09e3af9f8d91fed5ddabbba880437cac4a463704
+SHA256: 988980731bc8a7ee15f91a1d108e485460946256827fd083fa1b279c87b588a8
+Section: Development
+Priority: optional
+Homepage: http://www.gnu.org/software/automake/
+Description: automatically generate verbose makefiles
+Tag: purpose::console
+Name: Automake
+
 Package: bash
 Version: 5.2-2
 Architecture: iphoneos-arm
@@ -217,6 +251,22 @@ Section: Utilities
 Priority: important
 Description: provides less information than more does
 Tag: purpose::console
+
+Package: m4
+Version: 1.4.19
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: firmware (>= 5.1)
+Filename: ./debs/m4-1.4.19.deb
+Size: 147612
+MD5sum: 6e69c9aa7c51544a94bfd30de7e3fae6
+SHA1: c8b2512fb6a68caadd98f5e12ef55da169282316
+SHA256: 5148cd2f412bb8d874759fa270ef71f9b35ed87258c5f51df58491dc9500849e
+Section: Scripting
+Priority: important
+Description: arcane macro processing engine
+Tag: purpose::console
+Name: m4 Processor
 
 Package: neofetch
 Version: 7.3.1
