@@ -269,19 +269,19 @@ Tag: purpose::console
 Name: m4 Processor
 
 Package: neofetch
-Version: 7.3.1
+Version: 7.3.1-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: coreutils, gawk, grep, bash, coreutils-bin, system-cmds, darwintools
+Depends: coreutils, gawk, grep, bash, coreutils-bin, system-cmds, darwintools, firmware (>= 5.0)
 Filename: ./debs/neofetch-7.3.1.deb
-Size: 114754
-MD5sum: c6dd386ffcec28d3d71fa68ce0baecf2
-SHA1: ff29e9758df8b4b881cc1f3349fe662167c73dce
-SHA256: 83467494a7c00c410f9510ab82f646f2aa826010a8bcb9bbfbbb1c670a8c6398
+Size: 119424
+MD5sum: 98c5e8d70f73f28eabd05be92c75ddf9
+SHA1: aa6b6f132489502442fa2ab2c45f44876286f162
+SHA256: 2f075e4163faf12693a6962294327fbd15d65e05a6ce1395b6ab89a749107c25
 Section: Utilities
 Description: A command-line system information tool written in bash 3.2+ from https://github.com/oldworldordr/neofetch
 Tag: purpose::console
-Author: dylanaraps, oldworldorder
+Author: dylanaraps, Hykilpikonna
 Name: neofetch
 
 Package: pstree
@@ -418,16 +418,16 @@ Tag: purpose::console, role::hacker
 Name: XZ Utils
 
 Package: zsh
-Version: 5.9
+Version: 5.9-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: ncurses, firmware (>= 5.1)
 Filename: ./debs/zsh-5.9.deb
-Size: 2252548
-MD5sum: 07d1ccf81340de004cdeccef7f972fcd
-SHA1: 60e145b1eb974027a1cd5ebc68facef9a202c307
-SHA256: 22124410fe2e2cf85c95d80b018704dbc5b7ff125976556c498ac4ddef4a43fb
+Size: 2252544
+MD5sum: 14acd4f863cda804a4e660dc1362c7f4
+SHA1: 93ee64dba3bc62c189671226cd700d4cc18afd97
+SHA256: e645ea510baf93e0b1c54d76b0f5753547b9f77c03b90f80a454f0b9d99a7e52
 Section: Terminal_Support
 Priority: optional
 Description: a shell with interactive features
