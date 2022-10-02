@@ -418,16 +418,16 @@ Tag: purpose::console, role::hacker
 Name: XZ Utils
 
 Package: zsh
-Version: 5.9-1
+Version: 5.9-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses, firmware (>= 5.1)
+Depends: ncurses, firmware (>= 5.0)
 Filename: ./debs/zsh-5.9.deb
-Size: 2252544
-MD5sum: 14acd4f863cda804a4e660dc1362c7f4
-SHA1: 93ee64dba3bc62c189671226cd700d4cc18afd97
-SHA256: e645ea510baf93e0b1c54d76b0f5753547b9f77c03b90f80a454f0b9d99a7e52
+Size: 2252604
+MD5sum: a318189528aa40f6f0b6a97171e34ed5
+SHA1: 46afe9dfc88a09c8bbb9cd019139b71a91a9a7d3
+SHA256: 100f6ea8c7e75973fa69d8bbfa2a7c234465e0d7d7ad9e8077626e56ba9515e6
 Section: Terminal_Support
 Priority: optional
 Description: a shell with interactive features
