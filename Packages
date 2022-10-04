@@ -300,6 +300,21 @@ Tag: purpose::console
 Author: dylanaraps, Hykilpikonna
 Name: neofetch
 
+Package: patch
+Version: 2.7.6
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: firmware (>= 5.0)
+Filename: ./debs/patch-2.7.6.deb
+Size: 118298
+MD5sum: 82c59155dbdc32001592f4963e618779
+SHA1: 42f9cea40cf3e004396f8cec48fe3efe0b76f3ad
+SHA256: 56ba2614603f1a785ba9b69a514b61a2d15caf22e785606655192cf347cc9365
+Section: Development
+Priority: important
+Description: merge a difference onto a file
+Tag: purpose::console
+
 Package: pstree
 Version: 2.39
 Architecture: iphoneos-arm
