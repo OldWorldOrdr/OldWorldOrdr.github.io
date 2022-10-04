@@ -284,6 +284,22 @@ Priority: standard
 Description: completely free, modern clone of Pico
 Tag: purpose::console
 
+Package: ncurses
+Version: 6.3
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware (>= 5.0)
+Filename: ./debs/ncurses-6.3.deb
+Size: 2471250
+MD5sum: 607bbaf0054ccd4c28a4066ee166d95e
+SHA1: 1846f776c77b02aff0fb86cf4d730d3aaf512c49
+SHA256: 7a3db7de00c94415786b56deb9c43ccbc055c57190a86868bacf2074af02ada6
+Section: System
+Priority: required
+Description: feature-complete terminal library
+Name: New Curses
+
 Package: neofetch
 Version: 7.3.1-1
 Architecture: iphoneos-arm
