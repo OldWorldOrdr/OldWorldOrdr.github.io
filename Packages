@@ -33,15 +33,15 @@ Tag: purpose::console
 Name: Automake
 
 Package: bash
-Version: 5.2-2
+Version: 5.2.2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: grep, ncurses, readline (>= 6.0-7), sed, firmware (>= 5.1)
-Filename: ./debs/bash-5.2.deb
-Size: 592444
-MD5sum: d91ed6e9b45ed023bceb1180181dc48e
-SHA1: d775207ce2c6d724b83e05a7321c64720184b6c4
-SHA256: e27573ffbf3cc20d9e030647672b27766d7184013a590cd97da570560e388ece
+Depends: grep, ncurses, readline (>= 6.0-7), sed, firmware (>= 5.0)
+Filename: ./debs/bash-5.2.2.deb
+Size: 592374
+MD5sum: 1f266b17cfa406e21ddef7773a5dd9e6
+SHA1: f529c01ee56a28d1d77f7f3eb476b5b7ffb3c745
+SHA256: 1e49be1f12d17ce3083ced1379f9254a82b7abbcfdcc9cad14ba32550f736667
 Section: Terminal_Support
 Priority: required
 Homepage: http://www.gnu.org/software/bash/
