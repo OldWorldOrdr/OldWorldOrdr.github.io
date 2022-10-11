@@ -290,10 +290,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: coreutils, gawk, grep, bash, coreutils-bin, system-cmds, darwintools, firmware (>= 5.0)
 Filename: ./debs/neofetch-7.3.2.deb
-Size: 120406
-MD5sum: 5683fe8654c00ca92397561ec724f90a
-SHA1: 97d664ddaf24fc96c1a932d2e509d1d1a42fd53b
-SHA256: 609c344ee01849d44029bd39c65819454999e635ce78db8661f5ba3508f1f72d
+Size: 120390
+MD5sum: eff60877097202fe9bb56df9a16696fb
+SHA1: 83db7e1d0f8a05ba2ef84c65f429429803eb3dd5
+SHA256: bda7fc61d3f44484a52256f246a6656258970e06f72a333c3bff2a8c4b69d0dd
 Section: Utilities
 Description: A command-line system information tool written in bash 3.2+ from https://github.com/oldworldordr/neofetch
 Tag: purpose::console
