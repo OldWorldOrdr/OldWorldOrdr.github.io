@@ -384,12 +384,12 @@ Package: tar
 Version: 1.34
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: bzip2, gzip, lzma, firmware (>= 5.1)
+Depends: bzip2, gzip, lzma, firmware (>= 5.0)
 Filename: ./debs/tar-1.34.deb
-Size: 301842
-MD5sum: 198a3cab0aab2b2cd9d0497a5c3fef7f
-SHA1: aa8777909401dd69217dccf52ef8cc7991cfdc06
-SHA256: 32181f8bc4182c6aa8f53a2e3301c33f6786e68c944c380e7fe0762dec4df1fb
+Size: 301850
+MD5sum: b15d6f3862849ddea12c33db7e17899d
+SHA1: 5e9b24192d9d5a75d386bf4992ee8c1a3700230e
+SHA256: a90b3acd85b3055170d5f3aaa787f83393e09d761b36f4dbaba24d243068b225
 Section: Archiving
 Priority: required
 Homepage: http://www.gnu.org/software/tar/
