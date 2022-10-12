@@ -413,15 +413,15 @@ Tag: purpose::console
 Name: Vi IMproved
 
 Package: xz-utils
-Version: 5.3.0-1
+Version: 5.3.0-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: grep, sed, lzma, firmware (>= 5.1)
-Filename: ./debs/xz-5.2.6.deb
-Size: 486478
-MD5sum: 14f9a98cf275f63fc764e8e616173fcf
-SHA1: 481015c5266cd6b7ac88e46dc601f1a7db22ac9c
-SHA256: 1719f2b791cb122fd17490abecc46971586fbd57cb5944d0b5c5c46879832850
+Depends: grep, sed, lzma, firmware (>= 5.0)
+Filename: ./debs/xz-5.2.7.deb
+Size: 527428
+MD5sum: 7703183fd62f2abb529b4de4195b4d6f
+SHA1: f907293853a433ffba5316543fce9692dac67825
+SHA256: 874b9950770bc7c8ee07999f03427d0c6b6d68f26ae3cc9ae8a4f51a1d66811e
 Section: Archiving
 Priority: optional
 Homepage: http://tukaani.org/xz/
