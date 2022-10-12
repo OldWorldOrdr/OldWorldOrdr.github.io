@@ -333,16 +333,16 @@ Tag: purpose::console
 Name: Process Tree
 
 Package: readline
-Version: 8.2
+Version: 8.2.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses, firmware (>= 5.1)
-Filename: ./debs/readline-8.2.deb
-Size: 184560
-MD5sum: 17f43015b6f88c6f767212c5212144ce
-SHA1: 2772955a3df8d47c7e5c6998208275e8eb72e1a7
-SHA256: 65ad18fcd51d4dbb287083c4a828a6bb1043f19e663c07b43762374b6ecddaba
+Depends: ncurses, firmware (>= 5.0)
+Filename: ./debs/readline-8.2.1.deb
+Size: 184598
+MD5sum: 046d540f8fe5edf6611634ec2bf80630
+SHA1: 3a5af2887f0757a33f76342bea456b88655dd5e9
+SHA256: 46f96865f35121038e48999f77728bcf97b8a1476e9c5987cc37ebe918b30ead
 Section: Development
 Priority: required
 Description: command-line history management
