@@ -53,12 +53,12 @@ Package: bzip2
 Version: 1.0.8
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: firmware (>= 5.1)
+Depends: firmware (>= 5.0)
 Filename: ./debs/bzip2-1.0.8.deb
-Size: 50828
-MD5sum: abcd0349fa38b8fe1048fb188e533d0e
-SHA1: 83a0fa548b8b5efe2bd06a5cad601c4de12c8544
-SHA256: 0366c37234842bf493d7fab276378880601b8a493a02dbdf480a9c57d67fb786
+Size: 50814
+MD5sum: b7d92abbf99e0aba0cf083db15ec5609
+SHA1: 0154839900e94728a8cb05883da3126112d40f47
+SHA256: d7183dccf6b882ee2c3c6312e50e5f53791089b8e154fa9c62d49998a465277a
 Section: Archiving
 Priority: important
 Homepage: http://www.bzip.org/
