@@ -370,15 +370,14 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: firmware (>= 5.0)
 Filename: ./debs/sudo-1.9.11p3.deb
-Size: 883982
-MD5sum: 57453508b3a07c2e3fdce21595ff610c
-SHA1: a493ebc5b517ee77eb0e7407523cfac598ede56d
-SHA256: b4028308351f5e683cf633efc39b1644f2339643b611a7cacd4c596544ff7cac
+Size: 883986
+MD5sum: ba529f013e554ae72844740cfb7c7236
+SHA1: f210061b7cb466cb619129fa480720e638331461
+SHA256: df31911af0168c0586471b1e23990a590aedf8279f528ef492f534d0e758000e
 Section: Administration
 Priority: standard
 Description: temporarily assume root priviledges
 Tag: purpose::console
-Name: Sudo
 
 Package: tar
 Version: 1.34
