@@ -430,15 +430,15 @@ Tag: purpose::console
 Name: Tape Archive
 
 Package: vim
-Version: 9.0.0760
+Version: 9.0.0760-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses, firmware (>= 5.0)
 Filename: ./debs/vim-9.0.0760.deb
-Size: 10042982
-MD5sum: e8c01fd3128e642c9f52ba280375f9eb
-SHA1: 7f323ff000e8bf4c30641550099d2a30aab1d27c
-SHA256: b26b76c4437a9d0cf54b376ea5edef1874146e539854dd2001130bd201092450
+Size: 10044624
+MD5sum: 710e85e62d693d4cab378836c44e1aca
+SHA1: a504368b5d4afd142cf211727a850971340dfed5
+SHA256: 692a548ef021c4ddde3b8e463d340fc649dfd61622311b6b57d66e6cc61a5d22
 Section: Text_Editors
 Priority: standard
 Description: the best syntax highlighter, ever
