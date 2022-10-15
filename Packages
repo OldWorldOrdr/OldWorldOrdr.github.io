@@ -193,14 +193,15 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: firmware (>= 5.0)
 Filename: ./debs/gcal-4.1.deb
-Size: 344372
-MD5sum: 10a12f92a920c509227e7257e5986ad9
-SHA1: e269f01e1546e3e84c10d07cc44a5fa39793f854
-SHA256: 5feffa6c3a0290721289fb9f5def22959fe5b81747d3b771e3a4ce9ef849ae21
+Size: 344384
+MD5sum: 9d78a9144e9184fcb17493a5fcd70cae
+SHA1: a000e6931edd766810ac197bbe9f3c9655b9980f
+SHA256: 0e7c815134b30588ff8bfdf70e57d5cc2fa2792f924a09f88d8f6afdd7bbb07a
 Section: Utilities
 Priority: optional
 Description: A program for calculating and printing calendars
 Tag: purpose::console
+Name: Gcal
 
 Package: grep
 Version: 3.8
