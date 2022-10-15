@@ -236,6 +236,22 @@ Homepage: http://www.gzip.org/
 Description: the standard Unix compression algorithm
 Tag: purpose::console
 
+Package: hexedit
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: ncurses, firmware (>= 5.0)
+Filename: ./debs/hexedit-1.6.deb
+Size: 23782
+MD5sum: 63917bd757eac71f8b3316e444b4e661
+SHA1: c61d5ae0750a0d75d3e5f92b072da707eeb48578
+SHA256: ab68be4f030829c23f72167827552635079de875f16b5408e6b8a18083ffecee
+Section: Text_Editors
+Priority: standard
+Description: View and edit files in hexadecimal or in ASCII
+Tag: purpose::console
+
 Package: io.github.oldworldordr.iconfix
 Version: 5.0
 Architecture: iphoneos-arm
