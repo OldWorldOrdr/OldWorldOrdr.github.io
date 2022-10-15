@@ -412,6 +412,22 @@ Description: the best syntax highlighter, ever
 Tag: purpose::console
 Name: Vi IMproved
 
+Package: which
+Version: 2.21
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware (>= 5.0)
+Filename: ./debs/which-2.21.deb
+Size: 11252
+MD5sum: a6bdfd31f1a16f240669da13a41030a7
+SHA1: 02cc87b15133c7efe58d4438a486d5199d7057d8
+SHA256: f9bee544d8e325de254e95fe0318696b879664054c757f066989a0a466e5f571
+Section: Terminal_Support
+Priority: optional
+Description: A utility to show the full path of commands
+Tag: purpose::console
+
 Package: xz-utils
 Version: 5.3.0-1
 Architecture: iphoneos-arm
