@@ -272,14 +272,14 @@ Version: 608
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses, firmware (>= 5.1)
+Depends: ncurses, firmware (>= 5.0)
 Replaces: system-cmds (<= 433.4-11)
 Provides: more
 Filename: ./debs/less-608.deb
-Size: 116384
-MD5sum: bfc6c05d1b8d0f68da1ba33bd4a6d554
-SHA1: 27033aac939cb7b63b93f1f8f89d0137b66d75c9
-SHA256: ab7c6807600b8a59faa70708d52d0a8c15063df26f8008e9507dced874a7df6c
+Size: 116346
+MD5sum: e6f962c92330046053d70507a8b2cdc4
+SHA1: 95850937e5901ead57fc734219f7479658eb30ea
+SHA256: be1a2f6946a4231df953e921ffde21107a7358f4eade208ba806ceb0fa0b1947
 Section: Utilities
 Priority: important
 Description: provides less information than more does
