@@ -224,12 +224,12 @@ Package: gzip
 Version: 1.12
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: grep, sed, firmware (>= 5.1)
+Depends: grep, sed, firmware (>= 5.0)
 Filename: ./debs/gzip-1.12.deb
-Size: 78184
-MD5sum: 31fa2ccad7621644b8799e94fc65301a
-SHA1: 078cec7968003019e582bba6a8bdd31aaeed6323
-SHA256: 949469d093e386b6528a6018980b2a0df13dfa8baf7f148dc59d4ba3cfbbd7c0
+Size: 78370
+MD5sum: 5c6e2ab3ffb98c8bf2de92ffaf30a39b
+SHA1: 3286d3637a06493b660812276a7acc36d81925a5
+SHA256: ba6dfc5b42cc86c915c3a28584279d222bb138748bc9516a9425f8c4dc199e3d
 Section: Archiving
 Priority: required
 Homepage: http://www.gzip.org/
