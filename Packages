@@ -70,14 +70,14 @@ Version: 9.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: bash, coreutils-bin (>= 7.4-5), profile.d, firmware (>= 5.1)
+Depends: bash, coreutils-bin (>= 9.1), profile.d, firmware (>= 5.0)
 Replaces: netatalk (<= 2.0.3-6)
 Provides: md5sum, sha1sum
 Filename: ./debs/coreutils-9.1.deb
-Size: 1830
-MD5sum: 982c6cc818f6d9f8d04ef33d74b3bf27
-SHA1: 760a1aac33bb3857693388211f63b38959b7b567
-SHA256: 84b72f4df862f2017c2d5dc714857207f489a389f5f746f92d77383f8b65bbb3
+Size: 1824
+MD5sum: 744b81f7f22f58225481f565b8239199
+SHA1: d15b289072428b567e20b8b3051473651af74506
+SHA256: def4c5661e9b1a6a6af08d30df11cd315f1e7209e3c690416e382385ceb16996
 Section: Utilities
 Priority: standard
 Homepage: http://www.gnu.org/software/coreutils/
@@ -90,14 +90,14 @@ Version: 9.1
 Architecture: iphoneos-arm
 Essential: yes
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: firmware (>= 5.1)
+Depends: firmware (>= 5.0)
 Replaces: shell-cmds (<< 118-5), coreutils (<= 7.2-9)
 Provides: dirname, kill, mktemp, su
 Filename: ./debs/coreutils-bin-9.1.deb
-Size: 753078
-MD5sum: 823efc2590cc4c5a16548761d4a3e7d0
-SHA1: 1cee27031ca2d94bcb9c305757cb6d67f1ae4b35
-SHA256: 9272d19300e1d2a449398e9f0f33dfff73e9df5cad04068ac321b88f5d45a8c6
+Size: 753150
+MD5sum: dfc1191728ab7f37d386cef71147dc69
+SHA1: 49e9c15914a4e6f819e3bc59da8ae0fc1eef43d3
+SHA256: 972b706905a0d53d6ba78a92358fc56988d18ce1db019fee461a4da9e4a7ec4d
 Section: Utilities
 Priority: required
 Homepage: http://www.gnu.org/software/coreutils/
