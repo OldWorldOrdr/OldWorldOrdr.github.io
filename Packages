@@ -429,6 +429,22 @@ Description: tool for making tape archives
 Tag: purpose::console
 Name: Tape Archive
 
+Package: time
+Version: 1.9
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware (>= 5.0)
+Filename: ./debs/time-1.9.deb
+Size: 13012
+MD5sum: 0a217e7262a3e255a7554b1e0fa655ec
+SHA1: 9a1aaf49aeb2fc77cbec7d9fa9985b82aaa4112b
+SHA256: bb7b4ff9c271952c8a2f162ac0188f7b2c9a68b7ff17ef7cf2d82cdc66d8abe2
+Section: Utilities
+Priority: optional
+Description: A utility to run a command, then print system resource usage
+Tag: purpose::console
+
 Package: vim
 Version: 9.0.0760-1
 Architecture: iphoneos-arm
