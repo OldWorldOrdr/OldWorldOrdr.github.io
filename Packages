@@ -381,16 +381,16 @@ Priority: required
 Description: command-line history management
 
 Package: sed
-Version: 4.8
+Version: 4.8-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: firmware (>= 5.1)
+Depends: firmware (>= 5.0)
 Filename: ./debs/sed-4.8.deb
-Size: 106368
-MD5sum: 91bcd67536312dd709e8c1e9e68e149b
-SHA1: 5ffd035c881b4cd3e2e958a81b8dc29f986c7bc6
-SHA256: 2240f41d26bfe5562876526b65841a1a475c938cad36918e19b6604212a4c489
+Size: 106448
+MD5sum: b48f91f7db76963dd75b47a016090784
+SHA1: 3e56f41adf23340621642d0f5ce1c72b634541c1
+SHA256: 7106b466ac07659944fcd473ffbcd14dab4dae07b45ff6d234e5e0294de49ef2
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/sed/
