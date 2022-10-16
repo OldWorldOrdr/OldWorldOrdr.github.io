@@ -126,12 +126,12 @@ Package: ed
 Version: 1.18
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: firmware (>= 5.1)
+Depends: firmware (>= 5.0)
 Filename: ./debs/ed-1.18.deb
-Size: 25424
-MD5sum: f59a7f129b5c73532af89a0ed8d5e221
-SHA1: 33c4903ef02b28d86a8fa65ba8f81cbb0298f417
-SHA256: b03b7f02641629d1a6d9f0150c10643120b22b50a7ddb40dff9d4a031d64928c
+Size: 25422
+MD5sum: b7d74c6d202a7f1c13c54921e0ef2c85
+SHA1: bf9ba5aab7a038c112d96c6f8dca51834273fd15
+SHA256: d61967457ce0a70ca39ca826433cf5786294997ab5c954a36865ec3a8cf4ab00
 Section: Text_Editors
 Priority: important
 Description: the standard text editor, 'nuff said
