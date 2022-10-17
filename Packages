@@ -208,12 +208,12 @@ Version: 3.8
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: firmware (>= 5.1)
+Depends: firmware (>= 5.0)
 Filename: ./debs/grep-3.8.deb
-Size: 133188
-MD5sum: 6bab2608175151b60a2a438620569c27
-SHA1: b1b886ca354833765e312492f636551e3497e67d
-SHA256: 2d876ba13690f79dd8043dba052dfa6b20e6244ec1125deced55e82af96cf97a
+Size: 133186
+MD5sum: a82784319b6c71d80725355958379158
+SHA1: 22fdf1e45081f5c3dc76962c1820c5a4d2f0ff11
+SHA256: 5dce3e9b69d47b125b854b8ff54ad0f49731fec6dd541c52f4913c6a525fea21
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/grep/
