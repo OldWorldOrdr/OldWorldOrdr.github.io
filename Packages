@@ -144,10 +144,10 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: firmware (>= 5.0)
 Filename: ./debs/file-5.43.deb
-Size: 447694
-MD5sum: 05c7bfffcaacdb35af1a984bc917f52f
-SHA1: 20c737899a7bfa7a3491d4df1f7014193d3dc686
-SHA256: a9bb03e40f1444dfe8562f33432a512716b1df6a289e4a4930e3da900c0673e5
+Size: 447684
+MD5sum: fdd44a745d0818fcee59c5b16f37f233
+SHA1: ad34a25326495afd3eeabe50859487e1faaefd60
+SHA256: cead0ddcf851d132575db84434af97ec05335d0386f7a3c2bb970e3ef37c2160
 Section: Utilities
 Priority: important
 Description: guesses the type of a file from contents
