@@ -446,15 +446,15 @@ Description: A utility to run a command, then print system resource usage
 Tag: purpose::console
 
 Package: vim
-Version: 9.0.0760-1
+Version: 9.0.0785
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses, firmware (>= 5.0)
-Filename: ./debs/vim-9.0.0760.deb
-Size: 10044624
-MD5sum: 710e85e62d693d4cab378836c44e1aca
-SHA1: a504368b5d4afd142cf211727a850971340dfed5
-SHA256: 692a548ef021c4ddde3b8e463d340fc649dfd61622311b6b57d66e6cc61a5d22
+Filename: ./debs/vim-9.0.0785.deb
+Size: 10049842
+MD5sum: 7184c08ffc1b850aa6c9bd280237b73b
+SHA1: 58cb2f0d5f3cad905bc790f5718664422219e507
+SHA256: 5c5bc053ed907e052383a602dcb4a319c2a1d44698043314963007fcd42ade1c
 Section: Text_Editors
 Priority: standard
 Description: the best syntax highlighter, ever
