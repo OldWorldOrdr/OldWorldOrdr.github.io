@@ -142,12 +142,12 @@ Version: 5.43
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: firmware (>= 5.1)
+Depends: firmware (>= 5.0)
 Filename: ./debs/file-5.43.deb
 Size: 447694
-MD5sum: 6f48ffd4714ffb32b0ff9af4fdfed534
-SHA1: 0e6384cd26c436f8ba1a828e7f614285aca3697d
-SHA256: b2b7913cf82c5a83ba1f2a345a857bcfcd4fff8a2e71cf709fca31b40152d42d
+MD5sum: 05c7bfffcaacdb35af1a984bc917f52f
+SHA1: 20c737899a7bfa7a3491d4df1f7014193d3dc686
+SHA256: a9bb03e40f1444dfe8562f33432a512716b1df6a289e4a4930e3da900c0673e5
 Section: Utilities
 Priority: important
 Description: guesses the type of a file from contents
