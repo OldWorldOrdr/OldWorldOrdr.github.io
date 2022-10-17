@@ -109,12 +109,12 @@ Package: diffutils
 Version: 3.8
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: firmware (>= 5.1)
+Depends: firmware (>= 5.0)
 Filename: ./debs/diffutils-3.8.deb
-Size: 197482
-MD5sum: df2d8dd5b9c689aae353b0d636322e21
-SHA1: 7ea7b2bd88122baefa9728beb567159ee5e21707
-SHA256: 295e8df916076c3aa0d3fd0c964a45e6f36e6a18c86d51ece42d9a792863e71e
+Size: 197504
+MD5sum: 482382a4e44f347a2dc56c8ebd3a0205
+SHA1: 38e4f8765bf8bed156fd7955f801631978a29371
+SHA256: 55f964f0b616b5a4bc9989a37d4ff29d31d113db95a3be2eb83391eccf248da0
 Section: Development
 Priority: important
 Homepage: http://www.gnu.org/software/diffutils/
