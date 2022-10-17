@@ -210,10 +210,10 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: firmware (>= 5.0)
 Filename: ./debs/grep-3.8.deb
-Size: 133186
-MD5sum: a82784319b6c71d80725355958379158
-SHA1: 22fdf1e45081f5c3dc76962c1820c5a4d2f0ff11
-SHA256: 5dce3e9b69d47b125b854b8ff54ad0f49731fec6dd541c52f4913c6a525fea21
+Size: 133184
+MD5sum: cf784326a1a9d91c49df2d9ddd025154
+SHA1: 23a3ea9969fd7b61ecb891f62eb88b0a4b7e2da1
+SHA256: e0a687adddfb28170988b1df3b84cc037e649a1d250d770f4d27dd590d6c2b15
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/grep/
