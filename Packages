@@ -349,16 +349,16 @@ Description: merge a difference onto a file
 Tag: purpose::console
 
 Package: pstree
-Version: 2.39-1
+Version: 2.40-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: adv-cmds, firmware (>= 5.0)
-Filename: ./debs/pstree-2.39.deb
-Size: 7036
-MD5sum: fb18fab4f0c9727603d3a180287f020c
-SHA1: 1c03dce9c76eff6bfa95891ee3322c75a6279534
-SHA256: c3057d1a63426255d14a4c8cb90c6c9892afbc7279f5039e4c240acc4e430c3f
+Filename: ./debs/pstree-2.40.deb
+Size: 7004
+MD5sum: 9cbe5d3e5651324a98c5770104c9c1cf
+SHA1: 1ebd9e1cf003695a0754bce04501109ca186b32d
+SHA256: bb4f57576604264f9045d93991748168eb41eca9ec1eccfd4eb8b3cf9f1b703a
 Section: Utilities
 Priority: optional
 Description: process forests are hard to see for the trees
