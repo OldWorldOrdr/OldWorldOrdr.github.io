@@ -36,12 +36,12 @@ Package: bash
 Version: 5.2.2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: grep, ncurses, readline (>= 6.0-7), sed, firmware (>= 5.0)
+Depends: grep, ncurses, readline (>= 8.2.1), sed, firmware (>= 5.0)
 Filename: ./debs/bash-5.2.2.deb
-Size: 592374
-MD5sum: 1f266b17cfa406e21ddef7773a5dd9e6
-SHA1: f529c01ee56a28d1d77f7f3eb476b5b7ffb3c745
-SHA256: 1e49be1f12d17ce3083ced1379f9254a82b7abbcfdcc9cad14ba32550f736667
+Size: 592380
+MD5sum: ab66a3d10c80be004217d31a83c9a8e4
+SHA1: 3f01b2aaa2015c052d54eb889914777a5b575510
+SHA256: 23612f80f71f4742c76780c33793b1c1cb8f4240e0e846b05cc17d6129dd46ef
 Section: Terminal_Support
 Priority: required
 Homepage: http://www.gnu.org/software/bash/
@@ -104,6 +104,23 @@ Homepage: http://www.gnu.org/software/coreutils/
 Description: just the /bin folder from GNU coreutils
 Tag: purpose::console
 Name: Core Utilities (/bin)
+
+Package: curl
+Version: 7.85.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: firmware (>= 5.0)
+Filename: ./debs/curl-7.85.0.deb
+Size: 712238
+MD5sum: 8fb12fdcd3820e90dd5762f3dea366a9
+SHA1: 38f5a23bcf9b1e36d4b68975f57b13722043924d
+SHA256: 4877dff78d14d05b98994434bb4985046048e3d2dfe2fea8889c9db5e0000ae6
+Section: Networking
+Priority: standard
+Homepage: http://curl.haxx.se/
+Description: flexible multi-protocol file transfers
+Tag: purpose::console
+Name: cURL
 
 Package: diffutils
 Version: 3.8
