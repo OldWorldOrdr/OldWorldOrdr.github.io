@@ -16,15 +16,15 @@ Tag: purpose::console
 Name: Autoconf
 
 Package: automake
-Version: 1.16
+Version: 1.16.5
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: autoconf, firmware (>= 5.1)
-Filename: ./debs/automake-1.16.deb
-Size: 386156
-MD5sum: ad6e4f0adb09746960457e5532f75199
-SHA1: 09e3af9f8d91fed5ddabbba880437cac4a463704
-SHA256: 988980731bc8a7ee15f91a1d108e485460946256827fd083fa1b279c87b588a8
+Depends: autoconf, firmware (>= 5.0)
+Filename: ./debs/automake-1.16.5.deb
+Size: 475574
+MD5sum: b63dc18aa348cb4dbfc62c1c9ad1e35c
+SHA1: a9e73b4bff5fbfbb9a9614370c5f65b2264335a6
+SHA256: 28e4e5cabd0c99fcaedfec860ca5e149f7b8a55395fed33521308c85531bc3ba
 Section: Development
 Priority: optional
 Homepage: http://www.gnu.org/software/automake/
