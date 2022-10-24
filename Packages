@@ -365,6 +365,20 @@ Priority: important
 Description: merge a difference onto a file
 Tag: purpose::console
 
+Package: pcre
+Version: 8.45
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/pcre-8.45.deb
+Size: 314600
+MD5sum: f4982b65f873d9d78729ed2160fcce7e
+SHA1: ad0394909cd389ef5d79a358256852b148b8c96a
+SHA256: 9fcbf6e71f4203a7603dcc202938dc21dcbf9ba964d021c2979ab7b877088e3e
+Section: Development
+Priority: required
+Description: Perl-compatible regular expressions
+
 Package: pstree
 Version: 2.40-1
 Architecture: iphoneos-arm
