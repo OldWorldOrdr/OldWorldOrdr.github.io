@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: m4, firmware (>= 5.0)
 Filename: ./debs/autoconf-2.71.deb
-Size: 573374
-MD5sum: 980108a336e97d0e19278fb37ef8702a
-SHA1: 1da48fc470c29d1b3c1f30a12eb849d55dc4d4d1
-SHA256: 5cea5c7beb4635f12d508a508241568192ab59f8bd900949ea9885c1a5d82c58
+Size: 573302
+MD5sum: 54c92b16ccc7ed0a76e315009320d77a
+SHA1: 93b16a1aaab02105ac02aecfaf8bebf9f77a43a4
+SHA256: d73d3762d205b9342ab18898197c42c7d9a39942d6cefb85e95ae1b6be964b64
 Section: Development
 Priority: optional
 Homepage: http://www.gnu.org/software/autoconf/
