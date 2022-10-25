@@ -429,15 +429,15 @@ Description: edits streams of text using patterns
 Tag: purpose::console
 
 Package: sudo
-Version: 1.9.11p3-1
+Version: 1.9.12
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: firmware (>= 5.0)
-Filename: ./debs/sudo-1.9.11p3.deb
-Size: 883986
-MD5sum: ba529f013e554ae72844740cfb7c7236
-SHA1: f210061b7cb466cb619129fa480720e638331461
-SHA256: df31911af0168c0586471b1e23990a590aedf8279f528ef492f534d0e758000e
+Filename: ./debs/sudo-1.9.12.deb
+Size: 891382
+MD5sum: 0eb682d1bf2f4b79387c2879352384a4
+SHA1: da8cec8bbe4813a51fc4fa0e6841456c07a7fb88
+SHA256: 0051bbcfd3e9abcfb11943e171c53a10fa596944797ec49fae70f899423ab8cd
 Section: Administration
 Priority: standard
 Description: temporarily assume root priviledges
