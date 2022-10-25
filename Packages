@@ -492,6 +492,21 @@ Description: the best syntax highlighter, ever
 Tag: purpose::console
 Name: Vi IMproved
 
+Package: wget
+Version: 1.21.3
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: gettext, openssl, pcre, firmware (>= 5.0)
+Filename: ./debs/wget-1.21.3.deb
+Size: 271728
+MD5sum: c98d678e86f5c10b289d13448653a935
+SHA1: 1cb288ceeeb27d3494de19ab170051d45bc79b96
+SHA256: 7309d1841fd6667881b7412e4603080e34820323a810a2960fa68314becc37cc
+Section: Networking
+Priority: important
+Description: simple HTTP file transfer client
+
 Package: which
 Version: 2.21
 Architecture: iphoneos-arm
