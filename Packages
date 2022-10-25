@@ -476,6 +476,19 @@ Priority: optional
 Description: A utility to run a command, then print system resource usage
 Tag: purpose::console
 
+Package: unrar
+Version: 6.12
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/unrar-6.12.deb
+Size: 147680
+MD5sum: d4789ec5ca03616b18faf00d5e9adfce
+SHA1: 4de8fda2fac6b05d1a2de6b649f9a5856646a0ae
+SHA256: 00ca268a1cfcdb9278e9126136941ec563ec0134cfcd834972286fa2aebf917f
+Section: Archiving
+Priority: optional
+Description: de-compresses files in rar format
+
 Package: vim
 Version: 9.0.0785
 Architecture: iphoneos-arm
