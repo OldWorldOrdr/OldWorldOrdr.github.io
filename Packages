@@ -106,15 +106,15 @@ Tag: purpose::console
 Name: Core Utilities (/bin)
 
 Package: curl
-Version: 7.85.0
+Version: 7.86.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: firmware (>= 5.0)
-Filename: ./debs/curl-7.85.0.deb
-Size: 712238
-MD5sum: 8fb12fdcd3820e90dd5762f3dea366a9
-SHA1: 38f5a23bcf9b1e36d4b68975f57b13722043924d
-SHA256: 4877dff78d14d05b98994434bb4985046048e3d2dfe2fea8889c9db5e0000ae6
+Filename: ./debs/curl-7.86.0.deb
+Size: 752138
+MD5sum: 766b1cd29b84fba8559fc26ce4e3c41b
+SHA1: 37aa3df86c4a216170b51c5e9ae0aabf04de688f
+SHA256: 69a4a8162097e4f85cc3118949d8e43d74335401df1f4b0abdf3885fcadf9c7b
 Section: Networking
 Priority: standard
 Homepage: http://curl.haxx.se/
