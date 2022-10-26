@@ -490,15 +490,15 @@ Priority: optional
 Description: de-compresses files in rar format
 
 Package: vim
-Version: 9.0.0785
+Version: 9.0.0815
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses, firmware (>= 5.0)
-Filename: ./debs/vim-9.0.0785.deb
-Size: 10049842
-MD5sum: 7184c08ffc1b850aa6c9bd280237b73b
-SHA1: 58cb2f0d5f3cad905bc790f5718664422219e507
-SHA256: 5c5bc053ed907e052383a602dcb4a319c2a1d44698043314963007fcd42ade1c
+Filename: ./debs/vim-9.0.0815.deb
+Size: 9838340
+MD5sum: 2208b6e4b829fa289ed58070e1f1fe93
+SHA1: 75c261b43ab057b93938b7ae45f40d0bec926b50
+SHA256: 37b82ee3c56857530504757468aa4e1e4d78813c9f135578d6433f9cc7a02d27
 Section: Text_Editors
 Priority: standard
 Description: the best syntax highlighter, ever
