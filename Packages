@@ -318,15 +318,15 @@ Description: completely free, modern clone of Pico
 Tag: purpose::console
 
 Package: neofetch
-Version: 7.3.2-2
+Version: 7.3.3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: coreutils, gawk, grep, bash, coreutils-bin, system-cmds, darwintools, firmware (>= 5.0)
-Filename: ./debs/neofetch-7.3.2.deb
-Size: 120358
-MD5sum: d32fbea4660f61bf9a8b93e826e81100
-SHA1: 8993de5903c32b43ea4cdaead9268f9745596985
-SHA256: 41cee02d52cc0a0b84bcd5612150b0c63ecb3f2a5b61af99f83ff5056f0d41a2
+Filename: ./debs/neofetch-7.3.3.deb
+Size: 120972
+MD5sum: 7295e7327ac2f5c8769517a9799dccb6
+SHA1: 134381fcf0f696928c2869dea526501dd90853ac
+SHA256: 3dc309b124135c380204342c9409260ef7136912b2de2b37279623457dc9fcec
 Section: Utilities
 Description: A command-line system information tool written in bash 3.2+ from https://github.com/oldworldordr/neofetch
 Tag: purpose::console
