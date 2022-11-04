@@ -317,6 +317,23 @@ Priority: standard
 Description: completely free, modern clone of Pico
 Tag: purpose::console
 
+Package: neatvi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: firmware (>= 5.0)
+Conflicts: nvi
+Filename: ./debs/neatvi-1.0.deb
+Size: 52040
+MD5sum: 9cb1159f7fb72eeb7447d136c8af0ee8
+SHA1: 9ab29bf8c8854e533fd103c0d61838ef28b48540
+SHA256: 902667f78b2e1480e66db227a5f57005dd49bf0f988b63b8b42870130969e68a
+Section: Text_Editors
+Priority: standard
+Description: A small vi/ex editor for editing bidirectional UTF-8 text
+Tag: purpose::console
+Name: NeatVI
+
 Package: neofetch
 Version: 7.3.3-1
 Architecture: iphoneos-arm
