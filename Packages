@@ -427,16 +427,16 @@ Description: multiplexes a terminal into many
 Name: Screen
 
 Package: sed
-Version: 4.8-1
+Version: 4.9
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: firmware (>= 5.0)
-Filename: ./debs/sed-4.8.deb
-Size: 106448
-MD5sum: b48f91f7db76963dd75b47a016090784
-SHA1: 3e56f41adf23340621642d0f5ce1c72b634541c1
-SHA256: 7106b466ac07659944fcd473ffbcd14dab4dae07b45ff6d234e5e0294de49ef2
+Filename: ./debs/sed-4.9.deb
+Size: 106654
+MD5sum: 1367e2c2f3b3690434a4c883b758144a
+SHA1: c0ce998ce05fedc391e73bd04686cf3efa0e12f8
+SHA256: 03fbd30af65896b696078dc273180de1df42d22b9e524cb0ff13f09141f4c718
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/sed/
