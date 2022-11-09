@@ -444,15 +444,15 @@ Description: edits streams of text using patterns
 Tag: purpose::console
 
 Package: sudo
-Version: 1.9.12
+Version: 1.9.12p1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: firmware (>= 5.0)
-Filename: ./debs/sudo-1.9.12.deb
-Size: 891382
-MD5sum: 0eb682d1bf2f4b79387c2879352384a4
-SHA1: da8cec8bbe4813a51fc4fa0e6841456c07a7fb88
-SHA256: 0051bbcfd3e9abcfb11943e171c53a10fa596944797ec49fae70f899423ab8cd
+Filename: ./debs/sudo-1.9.12p1.deb
+Size: 897572
+MD5sum: bee5ef53476f6abc3ed7313f3f41fdf1
+SHA1: a3c2daa7f003d40c44b09e513627ce137b9e8e63
+SHA256: 5630f52e291b0725e1aa12959e8a41a33400b299142bd9c70ade47e66a43ef62
 Section: Administration
 Priority: standard
 Description: temporarily assume root priviledges
