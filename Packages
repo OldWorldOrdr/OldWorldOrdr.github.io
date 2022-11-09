@@ -418,13 +418,12 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
 Filename: ./debs/screen-4.9.0.deb
 Size: 472556
-MD5sum: 8706c6a80da3237b0d44278c117abe4d
-SHA1: 9514bd47ec8c8797e89d707d9c9ecebce75e3a5d
-SHA256: a94d3940af1ea5a6e456c026162a5853649a72c557d4d07536ac6d3cc9b93285
+MD5sum: fdc899291b1848cdd1d9c49ad66b12bc
+SHA1: 7b2a8d76e89722ee2d83804396083424d9f2cc64
+SHA256: 13ebcf74dda5775fab2b3ab35723b0fee5bd7277c920ab21f5b7c70fd7a67649
 Section: Terminal_Support
 Priority: important
 Description: multiplexes a terminal into many
-Name: Screen
 
 Package: sed
 Version: 4.9
