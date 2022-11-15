@@ -335,15 +335,15 @@ Tag: purpose::console
 Name: NeatVI
 
 Package: neofetch
-Version: 7.3.3-1
+Version: 7.3.2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: coreutils, gawk, grep, bash, coreutils-bin, system-cmds, darwintools, firmware (>= 5.0)
-Filename: ./debs/neofetch-7.3.3.deb
-Size: 120984
-MD5sum: 2f3c0aad868093345fae8741d0cde8db
-SHA1: a9d967de412f3acb332c49e17893a4fe98bf3073
-SHA256: e4f181670844616178815087d53aa62e7446f07ae7abc4ed10644ed9d8f6d29d
+Filename: ./debs/neofetch-7.3.2.deb
+Size: 120366
+MD5sum: 403a49953dae3269e4ae9cb6f1271ccf
+SHA1: 3c975a5c75f0825429eed966ca9271c9da652603
+SHA256: 891091268af84a8be15d2d4af4a77f0c8e964d8824e0db4e7abfa5c7e6dc4ec2
 Section: Utilities
 Description: A command-line system information tool written in bash 3.2+ from https://github.com/oldworldordr/neofetch
 Tag: purpose::console
