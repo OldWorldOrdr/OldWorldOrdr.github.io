@@ -308,10 +308,10 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: ncurses, firmware (>= 5.0)
 Filename: ./debs/nano-7.0.deb
-Size: 239066
-MD5sum: 5c8dd9fa4b4c3e42e8f2652baf32d60c
-SHA1: 4fd39bd4f047f45205408a7b21c16ca4b2023754
-SHA256: cbdad0748cc5dea9c7d9d38953570ae2b4d635872650feb644cfe7266467abcf
+Size: 244328
+MD5sum: bab201743c106e624e5ecddb1b520222
+SHA1: 1f39e2e052c58c7dade7342ed326a6be5794f5cd
+SHA256: 1f090e4a0a1950a092eadbb5dade703eb5db180d0b3cf089be5e574e45fadec4
 Section: Text_Editors
 Priority: standard
 Description: completely free, modern clone of Pico
