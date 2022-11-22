@@ -317,23 +317,6 @@ Priority: standard
 Description: completely free, modern clone of Pico
 Tag: purpose::console
 
-Package: neatvi
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: firmware (>= 5.0)
-Conflicts: nvi
-Filename: ./debs/neatvi-1.0.deb
-Size: 52040
-MD5sum: 9cb1159f7fb72eeb7447d136c8af0ee8
-SHA1: 9ab29bf8c8854e533fd103c0d61838ef28b48540
-SHA256: 902667f78b2e1480e66db227a5f57005dd49bf0f988b63b8b42870130969e68a
-Section: Text_Editors
-Priority: standard
-Description: A small vi/ex editor for editing bidirectional UTF-8 text
-Tag: purpose::console
-Name: NeatVI
-
 Package: neofetch
 Version: 7.3.2
 Architecture: iphoneos-arm
@@ -349,6 +332,23 @@ Description: A command-line system information tool written in bash 3.2+ from ht
 Tag: purpose::console
 Author: dylanaraps, Hykilpikonna
 Name: neofetch
+
+Package: nextvi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: firmware (>= 5.0)
+Conflicts: nvi
+Filename: ./debs/nextvi-1.0.deb
+Size: 76746
+MD5sum: 903a0cb0c9e95b6df3ebb2ab858ac127
+SHA1: 783cc796498865835a5c2be70b24d3bd710a1ca7
+SHA256: b9f4e476aa13d39c218caa11db8b36ef6b1339058f669a277a38624422f630d4
+Section: Text_Editors
+Priority: standard
+Description: Next version of neatvi (a small vi/ex editor) for editing bidirectional UTF-8 text.
+Tag: purpose::console
+Name: NextVI
 
 Package: patch
 Version: 2.7.6
