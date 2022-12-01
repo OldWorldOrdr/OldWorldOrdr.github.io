@@ -570,10 +570,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, sed, lzma, firmware (>= 5.0)
 Filename: ./debs/xz-5.2.9.deb
-Size: 285352
-MD5sum: fda4b427dcc1649ca5c3e41c74b7431c
-SHA1: cf60123ad0248ba4b8c27c29649462512d1a5fab
-SHA256: 396fef3651fc9bf9705ea78bd20acf4e18eeed4ba3ad7e341104f02d2bab8f3b
+Size: 159706
+MD5sum: 18485974ce8ed1a216cf82525ebd59b0
+SHA1: 60dfdb371b43f5f18d1de3d7156af2b096e57f9c
+SHA256: 9ff770da2206a1943ca6776ec602141ce329473ada761535ee1ff08902c0f76f
 Section: Archiving
 Priority: optional
 Homepage: http://tukaani.org/xz/
