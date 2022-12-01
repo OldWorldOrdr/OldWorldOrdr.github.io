@@ -565,15 +565,15 @@ Description: A utility to show the full path of commands
 Tag: purpose::console
 
 Package: xz-utils
-Version: 5.3.0-4
+Version: 5.3.0-5
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, sed, lzma, firmware (>= 5.0)
-Filename: ./debs/xz-5.2.8.deb
-Size: 282772
-MD5sum: 94067b95b2cee58df5aa0c5c38aae21c
-SHA1: 3b86961e4aedb5524b0f06874b5e61088a0ce99c
-SHA256: 6723280bf46821b7130daa21327ffdd806c24bcced32574f83126d8a601b7c27
+Filename: ./debs/xz-5.2.9.deb
+Size: 285352
+MD5sum: fda4b427dcc1649ca5c3e41c74b7431c
+SHA1: cf60123ad0248ba4b8c27c29649462512d1a5fab
+SHA256: 396fef3651fc9bf9705ea78bd20acf4e18eeed4ba3ad7e341104f02d2bab8f3b
 Section: Archiving
 Priority: optional
 Homepage: http://tukaani.org/xz/
