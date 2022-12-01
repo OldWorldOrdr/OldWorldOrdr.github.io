@@ -473,6 +473,21 @@ Description: tool for making tape archives
 Tag: purpose::console
 Name: Tape Archive
 
+Package: tcsh
+Version: 6.24.02
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: ncurses
+Filename: ./debs/tcsh-6.24.02.deb
+Size: 230750
+MD5sum: 90f5341eb4827889d551f04d666df5bd
+SHA1: 1848eec0ae88bb003bae65c2294a51ab3170e4d8
+SHA256: b5eaddf7cdd05416be4c400d6df3119bd7e383fcf493c55fe95dd235e70ff93b
+Section: Terminal_Support
+Priority: optional
+Description: enhanced version of the BSD C Shell
+Name: TENEX C Shell
+
 Package: time
 Version: 1.9
 Architecture: iphoneos-arm
