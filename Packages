@@ -105,6 +105,21 @@ Description: just the /bin folder from GNU coreutils
 Tag: purpose::console
 Name: Core Utilities (/bin)
 
+Package: dash
+Version: 0.5.11.5
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: firmware (>= 5.0)
+Filename: ./debs/dash-0.5.11.5.deb
+Size: 64890
+MD5sum: 6cbf292e5afd72beef9aae5a0dd87c14
+SHA1: 694a5e7967c0586b3f10b38d0167d23d705d9e53
+SHA256: be2a2a83513494e1f1a6cb6f3e7ff60182ced689360d5a5f40ee9a53df896a66
+Section: Terminal_Support
+Priority: optional
+Description: POSIX compliant shell that aims to be as small as possible
+Tag: purpose::console
+
 Package: diffutils
 Version: 3.8
 Architecture: iphoneos-arm
