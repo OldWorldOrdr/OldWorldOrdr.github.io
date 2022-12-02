@@ -505,14 +505,14 @@ Description: A utility to run a command, then print system resource usage
 Tag: purpose::console
 
 Package: unrar
-Version: 6.20b1
+Version: 6.20b2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/unrar-6.20b1.deb
-Size: 153966
-MD5sum: ef12075888a5b54152a73f87d1e50026
-SHA1: c1d86a45c3aa2574653e2f2c5527079c5af70bf4
-SHA256: 63500196c8faeae2658d8fb6b467dedf3ce467b77ede0847c59e56b3e1a64dc0
+Filename: ./debs/unrar-6.20b2.deb
+Size: 164062
+MD5sum: 9aab23e718899a395766c7ed7eed6284
+SHA1: bf53eee2887d42e8e940a561fc412b9c592810eb
+SHA256: d941d6a3747b98a98977bbb2544a361de9a4b40aa7d75c400190812857e65005
 Section: Archiving
 Priority: optional
 Description: de-compresses files in rar format
