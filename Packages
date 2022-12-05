@@ -111,14 +111,15 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: firmware (>= 5.0)
 Filename: ./debs/dash-0.5.11.5.deb
-Size: 64878
-MD5sum: 782f30d41e5ea77ee199521d5786b25a
-SHA1: 7aba19b442dd08242a84ca446210f3667c5aca18
-SHA256: b96d56f9e5e0128ab82d799d40bca5b650bb02cc7225c20e8ba39a119a422ee3
+Size: 64906
+MD5sum: 87d5c1db5ee0766b5931aeb7c6cca08f
+SHA1: 6dd3fca9367bb4496760ceaa74ddcd226120a083
+SHA256: ab3c0fc45394fe0e4ba64f24c81ef08506d8ea81d1be839a86b8e81e3af3add8
 Section: Terminal_Support
 Priority: optional
 Description: POSIX compliant shell that aims to be as small as possible
 Tag: purpose::console
+Name: Debian Almquist SHell
 
 Package: diffutils
 Version: 3.8
