@@ -350,16 +350,16 @@ Author: dylanaraps, Hykilpikonna
 Name: neofetch
 
 Package: nextvi
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: firmware (>= 5.0)
 Conflicts: nvi
 Filename: ./debs/nextvi-1.0.deb
-Size: 76746
-MD5sum: 903a0cb0c9e95b6df3ebb2ab858ac127
-SHA1: 783cc796498865835a5c2be70b24d3bd710a1ca7
-SHA256: b9f4e476aa13d39c218caa11db8b36ef6b1339058f669a277a38624422f630d4
+Size: 85488
+MD5sum: 44b69b6661dfc738cd35888258eaaee0
+SHA1: a2ff48843333c340fb4ec5ed647f5e568418501c
+SHA256: 673f0ceb32073ae36245f102230e9664878aa7a9547d53e37fca1c66627d978e
 Section: Text_Editors
 Priority: standard
 Description: Next version of neatvi (a small vi/ex editor) for editing bidirectional UTF-8 text.
