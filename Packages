@@ -106,15 +106,15 @@ Tag: purpose::console
 Name: Core Utilities (/bin)
 
 Package: dash
-Version: 0.5.11.5
+Version: 0.5.12
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: firmware (>= 5.0)
-Filename: ./debs/dash-0.5.11.5.deb
-Size: 64906
-MD5sum: 87d5c1db5ee0766b5931aeb7c6cca08f
-SHA1: 6dd3fca9367bb4496760ceaa74ddcd226120a083
-SHA256: ab3c0fc45394fe0e4ba64f24c81ef08506d8ea81d1be839a86b8e81e3af3add8
+Filename: ./debs/dash-0.5.12.deb
+Size: 55792
+MD5sum: 57fe8f50b04ced0cf116a0c37010d88a
+SHA1: e5d8fbf9567376b831ca8ae5e472afbfb3040139
+SHA256: b9ad037183e83baec8e6246fe76e0038ccfd07e11eaebb8a0f9185b17001ce63
 Section: Terminal_Support
 Priority: optional
 Description: POSIX compliant shell that aims to be as small as possible
