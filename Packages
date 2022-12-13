@@ -65,45 +65,26 @@ Homepage: http://www.bzip.org/
 Description: compression that's slightly better than gzip
 Tag: purpose::console
 
-Package: coreutils
-Version: 9.1
-Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: bash, coreutils-bin (>= 9.1), profile.d, firmware (>= 5.0)
-Replaces: netatalk (<= 2.0.3-6)
-Provides: md5sum, sha1sum
-Filename: ./debs/coreutils-9.1.deb
-Size: 1824
-MD5sum: 744b81f7f22f58225481f565b8239199
-SHA1: d15b289072428b567e20b8b3051473651af74506
-SHA256: def4c5661e9b1a6a6af08d30df11cd315f1e7209e3c690416e382385ceb16996
-Section: Utilities
-Priority: standard
-Homepage: http://www.gnu.org/software/coreutils/
-Description: core set of Unix shell utilities from GNU
-Tag: purpose::console
-Name: Core Utilities
-
 Package: coreutils-bin
-Version: 9.1
+Version: 9.1-1
 Architecture: iphoneos-arm
 Essential: yes
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: firmware (>= 5.0)
-Replaces: shell-cmds (<< 118-5), coreutils (<= 7.2-9)
-Provides: dirname, kill, mktemp, su
+Depends: bash, profile.d, firmware (>= 5.0)
+Conflicts: coreutils
+Replaces: shell-cmds (<< 118-5), coreutils, netatalk (<= 2.0.3-6)
+Provides: dirname, kill, mktemp, su, md5sum, sha1sum, coreutils
 Filename: ./debs/coreutils-bin-9.1.deb
-Size: 670690
-MD5sum: 209f560469089cfdbcfad14ca58e713c
-SHA1: 18b336cc82c5045e7bc42e89cdfbff35cbcb6e5e
-SHA256: b2639d519627aa40d10304d2717b3b6185c7c0c3b7b9e661ca40916c1bbe8419
+Size: 671776
+MD5sum: 398332eba4ee50f2046cd74366ab528f
+SHA1: 117af273dc04d6bf66de5765d054cf97dc20ba8f
+SHA256: b245bf9e3f0223305a450245d97fd268f0951cdc945e4a62b74a723225f4e686
 Section: Utilities
 Priority: required
 Homepage: http://www.gnu.org/software/coreutils/
-Description: just the /bin folder from GNU coreutils
+Description: Core set of Unix utilities from GNU
 Tag: purpose::console
-Name: Core Utilities (/bin)
+Name: Core Utilities
 
 Package: dash
 Version: 0.5.12
