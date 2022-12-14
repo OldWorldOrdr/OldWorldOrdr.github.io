@@ -567,10 +567,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, sed, lzma, firmware (>= 5.0)
 Filename: ./debs/xz-5.4.0.deb
-Size: 194344
-MD5sum: c388ed2230305cd84e51deefdc29ae16
-SHA1: 54bb7fced3b40ecfa5b5bce948e8c8c36d94dbec
-SHA256: 0be0fd5a9d11e59bcf4a5f16de552169e16588dc77c494fa8b3feddae6efe676
+Size: 194364
+MD5sum: 802dadf6563dd1436f56e5c5d4b8f23f
+SHA1: 9d90279166f485e6ddbfb0c1ff125760550be286
+SHA256: c97b0680cea0f7b47d4d186efe562ed7f6f17f6e1dbf2324a56b110ec2ebf0ae
 Section: Archiving
 Priority: optional
 Homepage: http://tukaani.org/xz/
