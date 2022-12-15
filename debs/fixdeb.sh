@@ -1,7 +1,7 @@
 #!/bin/sh
 case $1 in
   *.deb)
-    echo "$1"
+    printf  "Unpacking %s\n" "$1"
     dpkg-deb -R "$1" "$1.extract"
     rm "$1"
     dpkg-deb -b --root-owner-group -Zgzip "$1.extract" "$1"
