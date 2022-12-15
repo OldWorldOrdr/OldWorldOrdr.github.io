@@ -368,10 +368,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Filename: ./debs/pcre-8.45.deb
-Size: 314600
-MD5sum: f4982b65f873d9d78729ed2160fcce7e
-SHA1: ad0394909cd389ef5d79a358256852b148b8c96a
-SHA256: 9fcbf6e71f4203a7603dcc202938dc21dcbf9ba964d021c2979ab7b877088e3e
+Size: 312130
+MD5sum: b38683c2e79b502135524f349ab15a53
+SHA1: 9241212125cb91485370dd8ad6cd1be08dac0882
+SHA256: 177597a57e3088efea2abc43c489c84bf07c4f28929be5d12f24521c97099a2b
 Section: Development
 Priority: required
 Description: Perl-compatible regular expressions
@@ -476,10 +476,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
 Filename: ./debs/tcsh-6.24.02.deb
-Size: 230750
-MD5sum: 90f5341eb4827889d551f04d666df5bd
-SHA1: 1848eec0ae88bb003bae65c2294a51ab3170e4d8
-SHA256: b5eaddf7cdd05416be4c400d6df3119bd7e383fcf493c55fe95dd235e70ff93b
+Size: 197466
+MD5sum: 728d6603f01dabae611707be4d6055b6
+SHA1: 9e9d772c9ad32545f568c27579b5a8729abf3766
+SHA256: 75b6364dda6990b625634732f8c6aabd3c1d1d48eb751e404b9954551f6176e1
 Section: Terminal_Support
 Priority: optional
 Description: enhanced version of the BSD C Shell
@@ -520,10 +520,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses, firmware (>= 5.0)
 Filename: ./debs/vim-9.0.1060.deb
-Size: 9895092
-MD5sum: 1d4c360deae7c626a1b5b8d25e06924f
-SHA1: 55ad6a046b1eff006589968404774c96a796db1b
-SHA256: c673b99acc933be13b8e921ea09366ae6a0b1713bd3910dadc559e0918bc80c8
+Size: 9895090
+MD5sum: d4c9dc6f2ced1b6b5cc81d60cf73ec82
+SHA1: 86180daa865a0e578831c6b17b6893fc8009d192
+SHA256: 2df962c91fa6584f4c50018782cc6aa4572f972ae1df949e28ad1208f4fc43f3
 Section: Text_Editors
 Priority: standard
 Description: the best syntax highlighter, ever
@@ -537,10 +537,10 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: gettext, openssl, pcre, firmware (>= 5.0)
 Filename: ./debs/wget-1.21.3.deb
-Size: 271728
-MD5sum: c98d678e86f5c10b289d13448653a935
-SHA1: 1cb288ceeeb27d3494de19ab170051d45bc79b96
-SHA256: 7309d1841fd6667881b7412e4603080e34820323a810a2960fa68314becc37cc
+Size: 243340
+MD5sum: 8ac387db351371e3076259cfb0c1f69d
+SHA1: 066c803b26d5edafd359c61cd10111940bc22307
+SHA256: ee4ff8ceec4aabd31be1153a3a190a27728245c9c8cbbf62f25d387283f50141
 Section: Networking
 Priority: important
 Description: simple HTTP file transfer client
