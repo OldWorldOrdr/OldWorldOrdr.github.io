@@ -299,16 +299,16 @@ Tag: purpose::console
 Name: m4 Processor
 
 Package: nano
-Version: 7.0-1
+Version: 7.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: ncurses, firmware (>= 5.0)
-Filename: ./debs/nano-7.0.deb
-Size: 269220
-MD5sum: a5c53bbc536b87a7036ee32c5d44a091
-SHA1: 0b64b76feb7071c52e60d148c349415e12ca3d09
-SHA256: 49bb1bf9612bae065421e51e6a24d8770936d5a4a75261e5277e162e7b56538c
+Filename: ./debs/nano-7.1.deb
+Size: 270918
+MD5sum: 0708404d4363266c195bb7262773019a
+SHA1: e7160a6b4d2aeed757a3554e987e23d4972b1a8e
+SHA256: 5fc20791ccff01f8d7e5ff9750c30370281fcaddbd800d95c368fff26883f268
 Section: Text_Editors
 Priority: standard
 Description: completely free, modern clone of Pico
