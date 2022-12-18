@@ -18,5 +18,3 @@ body:
     label: Why tho?
     description: Why do you need/want this package?
     placeholder: So I can run a Minecraft server on my iPhone.
-  validations:
-    required: true
