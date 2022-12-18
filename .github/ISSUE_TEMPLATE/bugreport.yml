@@ -1,0 +1,20 @@
+name: Bug Report
+description: Make a bug report
+labels: [bug]
+body:
+- type: markdown
+  attributes:
+    value: |
+      ### Use this form to report a bugged package in the repo.
+- type: input
+  attributes:
+    label: Bugged Package
+    description: What package isn't working?
+    placeholder: sudo
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: What's the problem?
+    description: What issue are you having with this package?
+    placeholder: When I enter the wrong password it insults my appearance.
