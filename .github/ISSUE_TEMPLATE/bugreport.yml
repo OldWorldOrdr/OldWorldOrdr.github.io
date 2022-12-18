@@ -17,4 +17,4 @@ body:
   attributes:
     label: What's the problem?
     description: What issue are you having with this package?
-    placeholder: When I enter the wrong password it insults my appearance.
+    placeholder: When I enter the wrong password it insults me.
