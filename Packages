@@ -86,6 +86,21 @@ Description: Core set of Unix utilities from GNU
 Tag: purpose::console
 Name: Core Utilities
 
+Package: cowsay
+Version: 3.04
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: perl
+Filename: ./debs/cowsay-3.04.deb
+Size: 12532
+MD5sum: 63c3c1e4691fa4e69302cd746728d284
+SHA1: 5ff00e383c0482477c72de5ff6b848b301888417
+SHA256: 0ec57f265e1951d2d1b585216e87966d06f6f70489e484e1b20286c6bb1c1ab5
+Section: Utilities
+Priority: optional
+Description: Configurable talking cow
+Tag: purpose::console
+
 Package: dash
 Version: 0.5.12
 Architecture: iphoneos-arm
