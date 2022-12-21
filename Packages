@@ -409,6 +409,20 @@ Section: Development
 Priority: required
 Description: Perl-compatible regular expressions
 
+Package: pcre2
+Version: 10.42
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/pcre2-10.42.deb
+Size: 351454
+MD5sum: ac7fa9dc961325c58dace048a1053ddf
+SHA1: 961e3246753382f99a4b58a1cbe42cdc73cd5f6d
+SHA256: e6308cbe7ae9a15705c5f5bd0fc42da0cbe6af504b336eea9d825bd66780759d
+Section: Development
+Priority: optional
+Description: Perl-compatible regular expressions. 2nd Version
+
 Package: pstree
 Version: 2.40-1
 Architecture: iphoneos-arm
