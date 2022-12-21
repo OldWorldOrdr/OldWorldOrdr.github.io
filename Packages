@@ -288,10 +288,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: firmware (>= 5.0)
 Filename: ./debs/lua-5.4.4.deb
-Size: 356322
-MD5sum: 26ee7dbfec78bb23e120d3051aab7035
-SHA1: 010f973d6c58c92198a9c1dd70f1176ccf4d4bc9
-SHA256: ed49ac10a963c09d03623e541aa32e037f4a5e1a206ca5c224b6d665f18dfcc4
+Size: 356324
+MD5sum: 6697ce0a0a7aa274a1df7b48c6ebe616
+SHA1: dc5acd348d234cea4adb1248d289fc8db06aeba7
+SHA256: 7f4f316639e9483c597aafe86695be77479da1c4b8fb96f82f653cd31c62b5bd
 Section: Development
 Priority: optional
 Description: A powerful, efficient, lightweight, embeddable scripting language.
