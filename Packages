@@ -742,15 +742,15 @@ Version: 5.9-4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses, firmware (>= 5.0)
+Depends: ncurses
 Filename: ./debs/zsh-5.9.deb
-Size: 1970208
-MD5sum: 865283a7e8cd6edd6552974859208b16
-SHA1: a502ee26b1b244d78a4e230fe7e00efb6f835b0a
-SHA256: 2ddbade33b6e1d69d0f658754b4370d44e3bb375004f38ffbd93c6062ace64ef
+Size: 2031778
+MD5sum: 7aa6b8a70dcbb3219aa20144b9c75050
+SHA1: 0b09588b17acb3ab7fb045387176dac7ef448bca
+SHA256: 2e5e693651afe4d504fbf847b04fd4483edf9dc4892f5bb5656ca0ce5be61859
 Section: Terminal_Support
 Priority: optional
-Description: a shell with interactive features
+Description: A very advanced and programmable command interpreter (shell) for UNIX
 Tag: purpose::console
 Name: Z Shell
 
