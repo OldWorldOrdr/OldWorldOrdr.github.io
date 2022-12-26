@@ -36,12 +36,12 @@ Package: bash
 Version: 5.2.15
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: grep, ncurses, readline (>= 8.2.1), sed, firmware (>= 5.0)
+Depends: grep, ncurses, readline, sed
 Filename: ./debs/bash-5.2.15.deb
-Size: 499582
-MD5sum: 6d7a7ad22ed2e5cbc70bac14fd7ba3f8
-SHA1: 38385c1eec07992c04b44d962fdbf3232f539a3b
-SHA256: 40e58b5df363e45ebed926435f22293f9f98231230b607f20e0c6a67abdc0107
+Size: 530050
+MD5sum: 2e9314982ff103afba4a0508427e6d81
+SHA1: e813a7a51e7824a3c5838f50c419a5664c0a2f57
+SHA256: 1c2dd0d7b517aa0f29f5a0edea9be58715050fec6d52db56562ae74afb12362b
 Section: Terminal_Support
 Priority: required
 Homepage: http://www.gnu.org/software/bash/
@@ -66,19 +66,18 @@ Description: compression that's slightly better than gzip
 Tag: purpose::console
 
 Package: coreutils-bin
-Version: 9.1-1
+Version: 9.1-2
 Architecture: iphoneos-arm
 Essential: yes
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: bash, profile.d, firmware (>= 5.0)
 Conflicts: coreutils
 Replaces: shell-cmds (<< 118-5), coreutils, netatalk (<= 2.0.3-6)
 Provides: dirname, kill, mktemp, su, md5sum, sha1sum, coreutils
-Filename: ./debs/coreutils-bin-9.1.deb
-Size: 671776
-MD5sum: 398332eba4ee50f2046cd74366ab528f
-SHA1: 117af273dc04d6bf66de5765d054cf97dc20ba8f
-SHA256: b245bf9e3f0223305a450245d97fd268f0951cdc945e4a62b74a723225f4e686
+Filename: ./debs/coreutils-9.1.deb
+Size: 730718
+MD5sum: 21333c9b3ccb1b84608846dc38eeb975
+SHA1: 6e1fd0ba8b5fd6591e0ba34945b37ba16825bc46
+SHA256: 203157494537587f0312ddf47f6fa81851f1c27c2f132ade002837397f1b2fd7
 Section: Utilities
 Priority: required
 Homepage: http://www.gnu.org/software/coreutils/
