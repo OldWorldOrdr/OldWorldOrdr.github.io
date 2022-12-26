@@ -710,12 +710,11 @@ Version: 2.21
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: firmware (>= 5.0)
 Filename: ./debs/which-2.21.deb
-Size: 11244
-MD5sum: a94afa9219fe019d45874622376ea585
-SHA1: c7cfcc3beb16a3b60b69783b01e21b9a94d8a67d
-SHA256: b2d1e9b728439f1c94faf41a4f78e67c7e9f075d515800aabf99a491a9cf76fe
+Size: 9832
+MD5sum: 5264dae75a991f78632e85053493aa2c
+SHA1: a3e845227eca9148463038fba3676c202b4f5e41
+SHA256: 91f13d6adbdae5231ff8a50f1097e6715bd9cde9a52fbde6b4976eb04bb4b089
 Section: Utilities
 Priority: optional
 Description: A utility to show the full path of commands
