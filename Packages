@@ -724,12 +724,12 @@ Package: xz-utils
 Version: 5.4.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: grep, sed, lzma, firmware (>= 5.0)
+Depends: grep, sed
 Filename: ./debs/xz-5.4.0.deb
-Size: 575158
-MD5sum: dea7edad8328f69e07be453dab542471
-SHA1: c9f00a25e99c20fc6ad0f1891da4b1b68ac60168
-SHA256: 9461fbd19117ceb9bced0c45fb99c3423c288f038a01dea2e8db9c9c614c0339
+Size: 598388
+MD5sum: 6c135cbb74588b6e026065a4c748c1bf
+SHA1: a2478e96e09d7e311ec0c992bd4cceea5616e9ab
+SHA256: 008922c597d201bb484471413c424428edec7cd17b16b7883ea2fba214110ee8
 Section: Archiving
 Priority: optional
 Homepage: http://tukaani.org/xz/
