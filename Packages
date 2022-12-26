@@ -384,12 +384,12 @@ Version: 1.18
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses, firmware (>= 5.0)
+Depends: ncurses
 Filename: ./debs/ncdu-1.18.deb
-Size: 36140
-MD5sum: 6fb899f0f445df1074eb336f60043c5f
-SHA1: b17ed3f7ca09f4af41c16d0bcd60971911f82095
-SHA256: 1dc1b3ab14cb7246529281e4b0384410b4c14b56bdcc0bba9d47027205c074ad
+Size: 38442
+MD5sum: e6191b5b34a686ddbd2e3b90fb552985
+SHA1: fc29089eb83f47e873ead8e492fdd28f7d7467b4
+SHA256: 1abc83f41575cc8ad925defdac4f990ed00e5a2fac0a76abe4042ebaad18e53d
 Section: Utilities
 Priority: optional
 Description: Disk usage analyzer with an ncurses interface
