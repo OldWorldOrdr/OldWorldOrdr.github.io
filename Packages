@@ -486,12 +486,11 @@ Package: patch
 Version: 2.7.6
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: firmware (>= 5.0)
 Filename: ./debs/patch-2.7.6.deb
-Size: 118298
-MD5sum: 82c59155dbdc32001592f4963e618779
-SHA1: 42f9cea40cf3e004396f8cec48fe3efe0b76f3ad
-SHA256: 56ba2614603f1a785ba9b69a514b61a2d15caf22e785606655192cf347cc9365
+Size: 112272
+MD5sum: a0c1437aee145d7d263878f6df735bd1
+SHA1: 5f494e53b6baf5b21e69cc717ae28de8f8d20dd1
+SHA256: c2eee035b6430aabc8e4b91c16d6ef36878377fddbf45470f95ce880d3cd3300
 Section: Development
 Priority: important
 Description: merge a difference onto a file
