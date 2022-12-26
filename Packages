@@ -505,10 +505,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Filename: ./debs/pcre-8.45.deb
-Size: 312130
-MD5sum: b38683c2e79b502135524f349ab15a53
-SHA1: 9241212125cb91485370dd8ad6cd1be08dac0882
-SHA256: 177597a57e3088efea2abc43c489c84bf07c4f28929be5d12f24521c97099a2b
+Size: 320556
+MD5sum: 3c401e0c9ee10838b780f296414c5182
+SHA1: 19cab31da0cc2c0d66dbf6925109174f613f7d55
+SHA256: b4c17156a41e389b1cbac5703757638d57002c5453d268eea63e2c542f7dbfce
 Section: Development
 Priority: required
 Description: Perl-compatible regular expressions
