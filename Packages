@@ -363,12 +363,11 @@ Package: m4
 Version: 1.4.19
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: firmware (>= 5.0)
 Filename: ./debs/m4-1.4.19.deb
-Size: 125870
-MD5sum: 02b092527f3d60e408b336913b96e128
-SHA1: 1765ac014b7252866a0d7199bc315ed59d2c1554
-SHA256: 20c016c1b1db8b7c9096a02fe5d3b30faf19f74f2cf5a9b1b33d156187ff756d
+Size: 133288
+MD5sum: ff733bdb0fcca90d70b824eeb21310fe
+SHA1: 8a24756454b5323ac78d2fd7d2983f7dc233d6cb
+SHA256: 570d22833d067a902947575f96cac037b48d34f6252463b8f42ad924fe62f10b
 Section: Scripting
 Priority: important
 Description: arcane macro processing engine
