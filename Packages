@@ -181,12 +181,12 @@ Package: findutils
 Version: 4.9.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: bash, sed, firmware (>= 5.0)
+Depends: bash, sed
 Filename: ./debs/findutils-4.9.0.deb
-Size: 271180
-MD5sum: 17d268643a34338d9278bbad2b4cab26
-SHA1: a62aeb506c81c6877fc68da972cb6304ce615609
-SHA256: d8ff77d815ea612b5c52133a01d0874f39bc62532c7bb2492842cf5002fa4221
+Size: 286968
+MD5sum: fe5669e4d248164d895ab1771f291aaa
+SHA1: 4ad05d2e399b301b1abbf653e13d54918c93226d
+SHA256: 39f6c23ae62cc7fb9843870d1b2d5254b89c284f00eddc13c858cf651cedcfcb
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/findutils/
