@@ -2,12 +2,12 @@ Package: autoconf
 Version: 2.71
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: m4, firmware (>= 5.0)
+Depends: m4
 Filename: ./debs/autoconf-2.71.deb
-Size: 573302
-MD5sum: 54c92b16ccc7ed0a76e315009320d77a
-SHA1: 93b16a1aaab02105ac02aecfaf8bebf9f77a43a4
-SHA256: d73d3762d205b9342ab18898197c42c7d9a39942d6cefb85e95ae1b6be964b64
+Size: 573294
+MD5sum: 08edb09c20e9a8f43ae7355216d68e26
+SHA1: ba80161bc1cacb2c2c1e1585eb8c56c6e18056a1
+SHA256: f2293beb923129cbb9791e2ac50fc30a237f4bdc44d28d39bac247a8ba6e388e
 Section: Development
 Priority: optional
 Homepage: http://www.gnu.org/software/autoconf/
@@ -19,12 +19,12 @@ Package: automake
 Version: 1.16.5
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: autoconf, firmware (>= 5.0)
+Depends: autoconf
 Filename: ./debs/automake-1.16.5.deb
-Size: 475574
-MD5sum: b63dc18aa348cb4dbfc62c1c9ad1e35c
-SHA1: a9e73b4bff5fbfbb9a9614370c5f65b2264335a6
-SHA256: 28e4e5cabd0c99fcaedfec860ca5e149f7b8a55395fed33521308c85531bc3ba
+Size: 475568
+MD5sum: 3e4adf024919f93f039a5a50426ef813
+SHA1: 7cf4fd520c350d686ec4a3fe07ebeb44f9721dcf
+SHA256: 3856743c578b87fa5a66e3e3522856ba9909f0bd9920f7a0f4936f8043ec47bf
 Section: Development
 Priority: optional
 Homepage: http://www.gnu.org/software/automake/
