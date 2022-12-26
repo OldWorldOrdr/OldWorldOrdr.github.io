@@ -567,12 +567,11 @@ Version: 4.9
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: firmware (>= 5.0)
 Filename: ./debs/sed-4.9.deb
-Size: 106654
-MD5sum: 1367e2c2f3b3690434a4c883b758144a
-SHA1: c0ce998ce05fedc391e73bd04686cf3efa0e12f8
-SHA256: 03fbd30af65896b696078dc273180de1df42d22b9e524cb0ff13f09141f4c718
+Size: 102436
+MD5sum: 43f79b542a993bf31fe849d9d076c204
+SHA1: f9660cd4acee90c7599c0482038b83be1d8526f7
+SHA256: eb4e992d41be5633a78d3be47b1791d1c9b105abe26b4317c469baddd3b78c0d
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/sed/
