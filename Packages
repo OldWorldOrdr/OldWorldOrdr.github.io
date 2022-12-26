@@ -344,6 +344,21 @@ Description: A powerful, efficient, lightweight, embeddable scripting language.
 Tag: purpose::console, role::hacker
 Name: Lua
 
+Package: lzip
+Version: 1.23
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/lzip-1.23.deb
+Size: 55672
+MD5sum: c9646814f04a212ecb2933e0b12d4d04
+SHA1: 7cd31090d4f301ce6170c878f20fdf53c0b80afa
+SHA256: 60223acceaf05e26327822fc2ad233d7a14eeb55b6de3456c6415798ac641a2b
+Section: Archiving
+Priority: optional
+Homepage: http://www.nongnu.org/lzip/
+Description: A lossless file compressor based on the LZMA algorithm
+Tag: purpose::console
+
 Package: m4
 Version: 1.4.19
 Architecture: iphoneos-arm
@@ -596,12 +611,12 @@ Package: tar
 Version: 1.34
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: bzip2, gzip, lzma, firmware (>= 5.0)
+Depends: bzip2, gzip, lzma
 Filename: ./debs/tar-1.34.deb
-Size: 262422
-MD5sum: f857be229991cb723f93199c8338416a
-SHA1: ce85b7cfcd57299757436bdbfbdc6432e5035be0
-SHA256: feb5eea754abaa7e9b6eb50b16f80bb07cbcb101816a85e74efc348285a25273
+Size: 257378
+MD5sum: 484ef778ea6a6e7200a526a6fca37655
+SHA1: 32d9178e8dfd9bfb57f72aeb846e3a9743751147
+SHA256: cfa4b60f94de1cae064c24e005e41450249cd7da658ef030b70de3f074381a3b
 Section: Archiving
 Priority: required
 Homepage: http://www.gnu.org/software/tar/
