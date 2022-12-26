@@ -553,10 +553,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
 Filename: ./debs/screen-4.9.0.deb
-Size: 451150
-MD5sum: c1d9d7478f97e068c55cbc73d5da302e
-SHA1: c2b4e0a9e300453619d044a60a2a69ea16cf6d7b
-SHA256: 4e6a97de782632650ceec8045352567e06aff5ddf444e38baca7a708f07a1867
+Size: 469582
+MD5sum: e34235f9f850c94cb7bf665830d09493
+SHA1: 691b0c31e7d141a00b09dcafb75b0a5b594a5054
+SHA256: 00dc0ea9922b2a1f4866fff7bb828967055b94f665e5f0ffa6bdea4706d3a4c6
 Section: Terminal_Support
 Priority: important
 Description: multiplexes a terminal into many
