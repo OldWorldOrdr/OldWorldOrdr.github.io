@@ -121,12 +121,11 @@ Package: dash
 Version: 0.5.12
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: firmware (>= 5.0)
 Filename: ./debs/dash-0.5.12.deb
-Size: 55792
-MD5sum: 57fe8f50b04ced0cf116a0c37010d88a
-SHA1: e5d8fbf9567376b831ca8ae5e472afbfb3040139
-SHA256: b9ad037183e83baec8e6246fe76e0038ccfd07e11eaebb8a0f9185b17001ce63
+Size: 59476
+MD5sum: 4eb99ac1769ffe899266e13209ea0c45
+SHA1: 59f0ecdbe48ed5c0f95125f3ec8ef691df88dcb7
+SHA256: d7db4a72c59085cbf3d26e0c73e1d3a2d1f8e7e7e712f1bd95b802fd471caa98
 Section: Terminal_Support
 Priority: optional
 Description: POSIX compliant shell that aims to be as small as possible
