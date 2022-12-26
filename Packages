@@ -38,10 +38,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, ncurses, readline, sed
 Filename: ./debs/bash-5.2.15.deb
-Size: 530050
-MD5sum: 2e9314982ff103afba4a0508427e6d81
-SHA1: e813a7a51e7824a3c5838f50c419a5664c0a2f57
-SHA256: 1c2dd0d7b517aa0f29f5a0edea9be58715050fec6d52db56562ae74afb12362b
+Size: 419060
+MD5sum: ce1dd9006ba21db15718f513adda44c5
+SHA1: d4fbcf7aed2a52334e7b797d8e8f425f12613d44
+SHA256: 31b301b11ab835970184771af832b4021a63f239176efaa65af8f5358d210875
 Section: Terminal_Support
 Priority: required
 Homepage: http://www.gnu.org/software/bash/
