@@ -666,10 +666,10 @@ Version: 6.20b3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/unrar-6.20b3.deb
-Size: 154724
-MD5sum: 9badd9b4886f407d0e14c929be53414c
-SHA1: 4029f790b55d647d637af3c11744db8a3c0dfd09
-SHA256: 3ecb16d99728f22f30a962b9af5412e747a92c6b81bb3fcfa0958333588aee8e
+Size: 160272
+MD5sum: d430c2b337557c5665188145ad9ac062
+SHA1: 570bb2c414d36c9b5817e889839814fb0452c2a6
+SHA256: e797816b848b95aa3b67b403f5089fe9830cfed1bdb2a457ebaceefa2a63b4ce
 Section: Archiving
 Priority: optional
 Description: de-compresses files in rar format
