@@ -695,12 +695,12 @@ Version: 1.21.3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: gettext, openssl, pcre, firmware (>= 5.0)
+Depends: openssl, pcre, libidn2
 Filename: ./debs/wget-1.21.3.deb
-Size: 243340
-MD5sum: 8ac387db351371e3076259cfb0c1f69d
-SHA1: 066c803b26d5edafd359c61cd10111940bc22307
-SHA256: ee4ff8ceec4aabd31be1153a3a190a27728245c9c8cbbf62f25d387283f50141
+Size: 267542
+MD5sum: cd49828d6ddb874d117176899aade42d
+SHA1: 856beba3028eff1fcf1fe34f45f6f730d5ded139
+SHA256: 6acbdd579ed9fce0b5d5b8d226ed6414ababd0d2f05fbfb6eb4bfab0642c73d5
 Section: Networking
 Priority: important
 Description: simple HTTP file transfer client
