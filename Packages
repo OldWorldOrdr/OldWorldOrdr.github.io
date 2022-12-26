@@ -604,10 +604,10 @@ Version: 1.9.12p1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/sudo-1.9.12p1.deb
-Size: 921864
-MD5sum: a5c9c9c33a4e9f98dff8150fe988dbad
-SHA1: 2820752e16ba2e60ba3feed1686f1815072bbad1
-SHA256: 2257198847115c6d26c50c36813c5c9cd4ff6021aa070fc305599b92e7bd63f5
+Size: 920944
+MD5sum: 5f2ec699c0e933c5be1ee0db7d358540
+SHA1: ab3a5974e1a100502078a255cb84f87e0663c6b8
+SHA256: 8664e534f78de3be9826c9c5259322aaaf16f07a19491e3ab712011fb6612d7a
 Section: Administration
 Priority: standard
 Description: temporarily assume root priviledges
