@@ -441,13 +441,12 @@ Package: nextvi
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: firmware (>= 5.0)
 Conflicts: nvi
 Filename: ./debs/nextvi-1.0.deb
-Size: 85488
-MD5sum: 44b69b6661dfc738cd35888258eaaee0
-SHA1: a2ff48843333c340fb4ec5ed647f5e568418501c
-SHA256: 673f0ceb32073ae36245f102230e9664878aa7a9547d53e37fca1c66627d978e
+Size: 92878
+MD5sum: f8e72b01df5fb43909fbb55dbb375663
+SHA1: 56c235a6aec2bdee9a4e7336bb0623f167f6e721
+SHA256: 4f9e6d14c816773b75bb07768a1e83bd78a33cac2e6997ba54f007258a1f5193
 Section: Text_Editors
 Priority: standard
 Description: Next version of neatvi (a small vi/ex editor) for editing bidirectional UTF-8 text.
