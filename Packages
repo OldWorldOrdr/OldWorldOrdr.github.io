@@ -154,12 +154,11 @@ Package: ed
 Version: 1.18
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: firmware (>= 5.0)
 Filename: ./debs/ed-1.18.deb
-Size: 23622
-MD5sum: 8a3051c0311dbc4771c9e3ded9b4f568
-SHA1: 1f2077e38b7f489e6d42e7f8f5db9eb1a8cdd42e
-SHA256: 978f1158312a61a8e08f7f1e681ad6dec0b7a697b13fade28718e7dadaefbf29
+Size: 24196
+MD5sum: fd8ad4731c643143882ee1436d0b0862
+SHA1: ab34eee6bb1bb17cb84f218e802c8efa430423cd
+SHA256: e3f1eae36efcf9d358418afeaa71b0c98627f9e73a14077cd3d6296ba4cc9c8e
 Section: Text_Editors
 Priority: important
 Description: the standard text editor, 'nuff said
@@ -252,12 +251,11 @@ Version: 3.8
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: firmware (>= 5.0)
 Filename: ./debs/grep-3.8.deb
-Size: 116834
-MD5sum: 392de12512e315e8a5546af7f91b6983
-SHA1: 9da57fa73b79fac01046d656d417b05a8c988b0f
-SHA256: ca38f8c2f11a7e87c93f3fa0017a27bf2efbc30adab791b5f24a7fa5f3fae89f
+Size: 127610
+MD5sum: a901d7cb840933f6212a9ee6d2e98456
+SHA1: d69cce5a15e6da12f651d1b164825d0548ce1f93
+SHA256: 88b1fe7dfd233cc50d5b2375d89f45e64ae766dcfd2b52630ce811893a111878
 Section: Utilities
 Priority: important
 Homepage: http://www.gnu.org/software/grep/
