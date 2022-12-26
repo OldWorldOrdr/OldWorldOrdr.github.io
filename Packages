@@ -199,12 +199,12 @@ Package: gawk
 Version: 5.2.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: firmware (>= 5.0)
+Depends: profile.d
 Filename: ./debs/gawk-5.2.1.deb
-Size: 349458
-MD5sum: 857d879b5307f796ac4997f2e6cd22fb
-SHA1: c560d8a4fa7c5ecc2b28bbe9ded21826393fd672
-SHA256: 6001c9dcbb2fb21a2e9a7a770b7af5e1271e496bf5fd6e126987b0cb95fd96f7
+Size: 386928
+MD5sum: 4d9c8371d5534e2f668e27fc6064ece1
+SHA1: f2c06b9737c2906f47f69c232a331b99a3248540
+SHA256: 90b4e6a30c19e8f850f402829a9b9f9a5b1248d9e5e9b9b0bbe2aa142b247f08
 Section: Utilities
 Priority: important
 Description: GNU's heavy-weight implementation of awk
