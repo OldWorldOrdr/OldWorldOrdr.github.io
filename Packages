@@ -322,6 +322,20 @@ Priority: important
 Description: provides less information than more does
 Tag: purpose::console
 
+Package: libidn2
+Version: 2.3.4
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/libidn2-2.3.4.deb
+Size: 421774
+MD5sum: 844d114f68dabd9cd29be7ffeb986864
+SHA1: 819c86328e3b181bd39d564a552df48374ce1b68
+SHA256: 98199d3cfada494deeb7eced4ddeedc78b100b007d4c5cbfc24ac40950351aac
+Section: Development
+Priority: optional
+Description: A free software implementation of IDNA2008, Punycode and TR46
+
 Package: lua
 Version: 5.4.4
 Architecture: iphoneos-arm
