@@ -268,12 +268,12 @@ Package: gzip
 Version: 1.12
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: grep, sed, firmware (>= 5.0)
+Depends: grep, sed
 Filename: ./debs/gzip-1.12.deb
-Size: 69468
-MD5sum: b1a67b2fde5bbe721df8d254e58c91a1
-SHA1: 5db982e4e5f28731e342654feb444d0cc85b66a1
-SHA256: 0ad966a0caa478a0ca82ef5dd5aa1ac9f0af1466589ca9ada38d0c667e9020e7
+Size: 71114
+MD5sum: c121490bd107cc032ed86b8683fa3716
+SHA1: cba680e4b3d1715b9aa6d33689b4fbb22fa4f93c
+SHA256: b82042fd61e2337ef3598951f53d431d7492265ec86318c739c2a7721698ec82
 Section: Archiving
 Priority: required
 Homepage: http://www.gzip.org/
@@ -285,12 +285,12 @@ Version: 1.6
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses, firmware (>= 5.0)
+Depends: ncurses
 Filename: ./debs/hexedit-1.6.deb
-Size: 23782
-MD5sum: 63917bd757eac71f8b3316e444b4e661
-SHA1: c61d5ae0750a0d75d3e5f92b072da707eeb48578
-SHA256: ab68be4f030829c23f72167827552635079de875f16b5408e6b8a18083ffecee
+Size: 19582
+MD5sum: 4b3a851acf81c926b4961509e03175e9
+SHA1: 942eceeaee82eaa15ad4fee35fdee779de1f940f
+SHA256: 8f205452a35df91dac946c431dcd44f0225db9d539531d440b2f575720c8bb1c
 Section: Text_Editors
 Priority: standard
 Description: View and edit files in hexadecimal or in ASCII
