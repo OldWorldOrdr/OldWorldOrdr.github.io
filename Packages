@@ -624,15 +624,15 @@ Tag: purpose::console
 Name: Tape Archive
 
 Package: tcsh
-Version: 6.24.02
+Version: 6.24.07
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
-Filename: ./debs/tcsh-6.24.02.deb
-Size: 197466
-MD5sum: 728d6603f01dabae611707be4d6055b6
-SHA1: 9e9d772c9ad32545f568c27579b5a8729abf3766
-SHA256: 75b6364dda6990b625634732f8c6aabd3c1d1d48eb751e404b9954551f6176e1
+Filename: ./debs/tcsh-6.24.07.deb
+Size: 199166
+MD5sum: 099be853282a8a8f0016d5dc4c4c4896
+SHA1: bfd625195de720b7cc281a5f17a1b8a7e414d1f9
+SHA256: b7aae43f5d43652a6e2022cf66dda92e04e6bbd54e6be696955e22ee672eaa11
 Section: Terminal_Support
 Priority: optional
 Description: enhanced version of the BSD C Shell
