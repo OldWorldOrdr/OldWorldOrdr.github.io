@@ -637,12 +637,11 @@ Version: 1.9
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: firmware (>= 5.0)
 Filename: ./debs/time-1.9.deb
-Size: 13012
-MD5sum: 0a217e7262a3e255a7554b1e0fa655ec
-SHA1: 9a1aaf49aeb2fc77cbec7d9fa9985b82aaa4112b
-SHA256: bb7b4ff9c271952c8a2f162ac0188f7b2c9a68b7ff17ef7cf2d82cdc66d8abe2
+Size: 11528
+MD5sum: aae8b0a6452fd51bdf1b3be0a2b0826a
+SHA1: d75c88f896ea6d47213da665c12b227729a70278
+SHA256: f3de6f5b828c369f2eca4404440981a58f5f6acb5059ee04b127733a2c0fd7b4
 Section: Utilities
 Priority: optional
 Description: A utility to run a command, then print system resource usage
