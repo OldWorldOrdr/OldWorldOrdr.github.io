@@ -397,15 +397,15 @@ Tag: purpose::console
 Name: NCurses Disk Usage
 
 Package: ncurses
-Version: 5.9
+Version: 5.9-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Filename: ./debs/ncurses-5.9.deb
-Size: 1655320
-MD5sum: 7d07076eb363479aba8ba6bb1a6a3159
-SHA1: 6c2c7b90a5ad85aceeb2b7dc4f32954fb02084b3
-SHA256: d9b5580e3afd171c158f68be0848bdf44ae8f3b711ffca0be593d7eb14f2a6ce
+Size: 1322330
+MD5sum: fe538f548e457b8485ae2187fdbf1eab
+SHA1: fa659799911f1b929038c4210cf0afbe3cd36ce6
+SHA256: 7a42330d9724280617dc27e38907232f918df055454260274d14de862ddb5432
 Section: System
 Priority: required
 Description: feature-complete terminal library
@@ -540,12 +540,12 @@ Version: 8.2.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses, firmware (>= 5.0)
+Depends: ncurses
 Filename: ./debs/readline-8.2.1.deb
-Size: 184598
-MD5sum: 046d540f8fe5edf6611634ec2bf80630
-SHA1: 3a5af2887f0757a33f76342bea456b88655dd5e9
-SHA256: 46f96865f35121038e48999f77728bcf97b8a1476e9c5987cc37ebe918b30ead
+Size: 1333860
+MD5sum: d2a678ad4a7deada6308034cf1b764ff
+SHA1: 35ce12b6f52dab35296b1dd4a4488346d95d5854
+SHA256: f7a6b59fb11d422032b82dc0f839e35aad4b5b9658a1be771b756327c2f31384
 Section: Development
 Priority: required
 Description: command-line history management
