@@ -331,14 +331,14 @@ Package: lua
 Version: 5.4.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: firmware (>= 5.0)
+Depends: readline
 Conflicts: com.deltaman.lua
 Replaces: com.deltaman.lua
 Filename: ./debs/lua-5.4.4.deb
-Size: 356350
-MD5sum: 427b882e928624a3e753ae4086ac71ce
-SHA1: da30fb6759de5196f2eef7c45adcf602fda27ad9
-SHA256: ca382c6aae1335432719facfc6d39f0c8aa18528c4691da44c62a91d7837f7c3
+Size: 377470
+MD5sum: caa28a2c29107ec7a7e9d30de99bde33
+SHA1: 4e1ea84304ad644f12f8e5d314498430769c6e0d
+SHA256: be7052f15dc04e778b4c020187855405998a83dda9fcd7b96a58899e0d56af12
 Section: Development
 Priority: optional
 Description: A powerful, efficient, lightweight, embeddable scripting language.
