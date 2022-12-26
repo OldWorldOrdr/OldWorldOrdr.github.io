@@ -101,6 +101,23 @@ Priority: optional
 Description: Configurable talking cow
 Tag: purpose::console
 
+Package: curl
+Version: 7.87.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: openssl
+Filename: ./debs/curl-7.87.0.deb
+Size: 785354
+MD5sum: ecf66b768f54204b71d53ccfb6ceca94
+SHA1: f2da4f3e76d2bb8f7e186fd4dd05844faa69bbbf
+SHA256: f141f32b07439cbd377f5b99829177299eca20fd511668534e149494668bd0ae
+Section: Networking
+Priority: standard
+Homepage: http://curl.haxx.se/
+Description: flexible multi-protocol file transfers
+Name: cURL
+
 Package: dash
 Version: 0.5.12
 Architecture: iphoneos-arm
@@ -214,6 +231,22 @@ Priority: optional
 Description: A program for calculating and printing calendars
 Tag: purpose::console
 Name: Gcal
+
+Package: git
+Version: 2.39.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: curl, openssl
+Filename: ./debs/git-2.39.0.deb
+Size: 12218532
+MD5sum: 81cd54b76d9e88e008d2d17a30042e8e
+SHA1: 6f6ac42bc716f5d5e4c09ac9f46eaa2063aa88df
+SHA256: 0222c9f5f95c021d1339e49eb6366c3bd292844544b4d12b0a6301199262270d
+Section: Data_Storage
+Priority: optional
+Description: fast content-addressable filesystem
+Name: Git
 
 Package: grep
 Version: 3.8
@@ -411,6 +444,38 @@ Priority: standard
 Description: Next version of neatvi (a small vi/ex editor) for editing bidirectional UTF-8 text.
 Tag: purpose::console
 Name: NextVI
+
+Package: openssh
+Version: 9.1p1
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: openssl
+Filename: ./debs/openssh-9.1p1.deb
+Size: 2219938
+MD5sum: 0425055dc3aca2bd4afdae757be64c8e
+SHA1: a6f7a8622f08f5fc19aaa80f3637ea96b72ebac1
+SHA256: 3c2407e5081bedb5e307cc7e3ec14e9d0614be517386dc6e4d064d5ff4852f35
+Section: Networking
+Priority: important
+Description: secure remote access between machines
+Depiction: http://cydia.saurik.com/info/openssh/
+Name: OpenSSH
+
+Package: openssl
+Version: 1.1.1s
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/openssl-1.1.1s.deb
+Size: 3493434
+MD5sum: f86c2d66216034c6fbb3030f2bd65bd3
+SHA1: d8627561418d2b5dd2488997f5830eda731d4536
+SHA256: 919daf6002167180baa41b2ff6b5363376687ccc403efa3d4615ff172b592dc0
+Section: Security
+Priority: standard
+Description: SSL library and cryptographic tools
+Name: OpenSSL
 
 Package: patch
 Version: 2.7.6
