@@ -402,10 +402,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Filename: ./debs/ncurses-5.9.deb
-Size: 1322330
-MD5sum: fe538f548e457b8485ae2187fdbf1eab
-SHA1: fa659799911f1b929038c4210cf0afbe3cd36ce6
-SHA256: 7a42330d9724280617dc27e38907232f918df055454260274d14de862ddb5432
+Size: 1325726
+MD5sum: fd5255801685633877f5fdcaf61b3add
+SHA1: 79e2157e502996d13e877a134ea2dc0f6eeae0aa
+SHA256: 13ae13acb89b9a4b6087c72f27542c9e6035216538476efe2157d2e9dc0b5832
 Section: System
 Priority: required
 Description: feature-complete terminal library
