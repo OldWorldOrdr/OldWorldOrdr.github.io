@@ -214,12 +214,11 @@ Version: 4.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: firmware (>= 5.0)
 Filename: ./debs/gcal-4.1.deb
-Size: 320712
-MD5sum: 4e6881758fc9f3e67d47c12d444e38a1
-SHA1: 76495afc9bae4c417beccf764560620e52aacb17
-SHA256: 0319fdb6a5986457e415c51cfd497a9e2fc08df68b92839ca9e4aa35414f0d25
+Size: 675692
+MD5sum: 7c02eb5327591893c3ccc870f319e094
+SHA1: 0698b26461b009547215c706e253b6b7bdec191b
+SHA256: b357067d149b48d1088c9d6ab3cd6b0a6bc34677c58b8641afd47800d33f6bd0
 Section: Utilities
 Priority: optional
 Description: A program for calculating and printing calendars
