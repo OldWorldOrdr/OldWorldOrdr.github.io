@@ -524,20 +524,6 @@ Section: Development
 Priority: required
 Description: Perl-compatible regular expressions
 
-Package: pcre2
-Version: 10.42
-Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/pcre2-10.42.deb
-Size: 351454
-MD5sum: ac7fa9dc961325c58dace048a1053ddf
-SHA1: 961e3246753382f99a4b58a1cbe42cdc73cd5f6d
-SHA256: e6308cbe7ae9a15705c5f5bd0fc42da0cbe6af504b336eea9d825bd66780759d
-Section: Development
-Priority: optional
-Description: Perl-compatible regular expressions. 2nd Version
-
 Package: pstree
 Version: 2.40-1
 Architecture: iphoneos-arm
@@ -660,6 +646,20 @@ Priority: optional
 Description: A utility to run a command, then print system resource usage
 Tag: purpose::console
 
+Package: tree
+Version: 2.1.0
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/tree-2.1.0.deb
+Size: 31152
+MD5sum: 6134048da8be9a4bf3230ebe37505d9f
+SHA1: 01a52d9354ad1f17f730fefec7929910292a4e94
+SHA256: 1958b66e57794c7379008a8a88bb8f7b1439277a320cec252202c045ce3c4701
+Section: Utilities
+Priority: optional
+Description: A colorized, indented directory listing tool
+Tag: purpose::console
+
 Package: unrar
 Version: 6.20b3
 Architecture: iphoneos-arm
@@ -740,13 +740,12 @@ Package: zsh
 Version: 5.9-4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: ncurses
 Filename: ./debs/zsh-5.9.deb
-Size: 2031778
-MD5sum: 7aa6b8a70dcbb3219aa20144b9c75050
-SHA1: 0b09588b17acb3ab7fb045387176dac7ef448bca
-SHA256: 2e5e693651afe4d504fbf847b04fd4483edf9dc4892f5bb5656ca0ce5be61859
+Size: 2031770
+MD5sum: c90395ce8483d1e25d0fef988aa3e198
+SHA1: 3ab26e25cae74cc48c847b6f3e708a19e7cd59db
+SHA256: 4e3e4e7931e8df770fbcdbdb214c04955d8fddc43aaab2cc68d8b34bd1c51bc9
 Section: Terminal_Support
 Priority: optional
 Description: A very advanced and programmable command interpreter (shell) for UNIX
