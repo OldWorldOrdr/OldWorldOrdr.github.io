@@ -524,6 +524,23 @@ Section: Development
 Priority: required
 Description: Perl-compatible regular expressions
 
+Package: perl
+Version: 5.26.1-7
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Conflicts: org.coolstar.perl
+Replaces: org.coolstar.perl
+Provides: org.coolstar.perl
+Filename: ./debs/perl-5.26.1.deb
+Size: 12043770
+MD5sum: 282b9b387851d4d6b8c9ded16db04869
+SHA1: 4e8e59f4ce6cf2ba38b5850faf137eeaf24ca5f1
+SHA256: b0a3711bea4b9b180adc8448c779a33d56ae72da1289ed96c41f94a88a2886d6
+Section: Development
+Description: A highly capable, feature-rich programming language
+Tag: purpose::console, role::hacker
+Name: Perl
+
 Package: pstree
 Version: 2.40-1
 Architecture: iphoneos-arm
