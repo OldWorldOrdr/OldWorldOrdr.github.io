@@ -388,13 +388,12 @@ Package: nano
 Version: 7.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: ncurses, firmware (>= 5.0)
+Depends: ncurses
 Filename: ./debs/nano-7.1.deb
-Size: 270918
-MD5sum: 0708404d4363266c195bb7262773019a
-SHA1: e7160a6b4d2aeed757a3554e987e23d4972b1a8e
-SHA256: 5fc20791ccff01f8d7e5ff9750c30370281fcaddbd800d95c368fff26883f268
+Size: 286752
+MD5sum: fb551f7cc0f270ba6323fcd573294c82
+SHA1: 9b3eed6de3f0e7303b97717259a3467fb2bb5005
+SHA256: b2f5a39eb33363cabeeb9ce550711f5f8e029601e4645107bcfaa3d958cae3ef
 Section: Text_Editors
 Priority: standard
 Description: completely free, modern clone of Pico
