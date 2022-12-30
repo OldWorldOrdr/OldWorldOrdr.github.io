@@ -431,20 +431,19 @@ Description: feature-complete terminal library
 Name: New Curses
 
 Package: neofetch
-Version: 7.3.2
+Version: 7.3.5
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Depends: coreutils, gawk, grep, bash, coreutils-bin, system-cmds, darwintools, firmware (>= 5.0)
-Filename: ./debs/neofetch-7.3.2.deb
-Size: 120366
-MD5sum: 403a49953dae3269e4ae9cb6f1271ccf
-SHA1: 3c975a5c75f0825429eed966ca9271c9da652603
-SHA256: 891091268af84a8be15d2d4af4a77f0c8e964d8824e0db4e7abfa5c7e6dc4ec2
+Depends: coreutils, gawk, grep, bash, coreutils-bin, system-cmds, darwintools
+Filename: ./debs/neofetch-7.3.5.deb
+Size: 121786
+MD5sum: 4904c33360f602ec23fccd1497d71996
+SHA1: 83b8c3360455c4396d58e33d26814af5bfff12c3
+SHA256: c740712feb3966299d08c10d09c9c2efc99d86b5132888a8b539353ccf98bda8
 Section: Utilities
 Description: A command-line system information tool written in bash 3.2+ from https://github.com/oldworldordr/neofetch
 Tag: purpose::console
 Author: dylanaraps, Hykilpikonna
-Name: neofetch
 
 Package: nextvi
 Version: 1.0-1
@@ -469,10 +468,10 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: openssl
 Filename: ./debs/openssh-9.1p1.deb
-Size: 2219938
-MD5sum: 0425055dc3aca2bd4afdae757be64c8e
-SHA1: a6f7a8622f08f5fc19aaa80f3637ea96b72ebac1
-SHA256: 3c2407e5081bedb5e307cc7e3ec14e9d0614be517386dc6e4d064d5ff4852f35
+Size: 2219950
+MD5sum: 60cc531d05d2ffbad98ec554d83f1291
+SHA1: 4a0567da0e9c84cd7f62bd84c1dc270a2dc1aeac
+SHA256: f9f02dbaabba20c05142cf5095d79c6f3935d11f6c1b65504f88b9c0d8445264
 Section: Networking
 Priority: important
 Description: secure remote access between machines
