@@ -587,11 +587,12 @@ Package: rsync
 Version: 3.2.7
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Depends: openssl, lz4
 Filename: ./debs/rsync-3.2.7.deb
-Size: 284492
-MD5sum: a84303cea910b61d919568c090c824eb
-SHA1: 5f2a44813df2d42267cd330497e0bd20491f451d
-SHA256: 75933531a6eed8d304c6528a1df132ee05247ca9a7ebc5f5ace9835c403a50ea
+Size: 284512
+MD5sum: 0542871e54a13e1bcfd6395007f249ba
+SHA1: 3034bbba848a828b3745453ec5ef5a83dd93bf48
+SHA256: 9864fb456f87ea1b4e6cf60d690709163994e931842451d875dd9acea10dce86
 Section: Networking
 Priority: important
 Homepage: http://www.samba.org/rsync/
