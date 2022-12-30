@@ -289,15 +289,15 @@ Description: View and edit files in hexadecimal or in ASCII
 Tag: purpose::console
 
 Package: io.github.oldworldordr.iconfix
-Version: 5.0
+Version: 5.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: curl, coreutils-bin, bash
 Filename: ./debs/iconfix-5.0.deb
-Size: 1468
-MD5sum: 58b853bcfd143bdd72b6cf8c7d9a2de5
-SHA1: 5720c4a16bfbd61e883b47f06e4c0c197fd1c644
-SHA256: 4562530918948096cc73f8e0116eb9c85249818e7a98ad7afbbdabe89505a14c
+Size: 1410
+MD5sum: d81b4adc69c094f03594822471edbf80
+SHA1: c0bb566ee652d9e9b5a6480f52cef864be712477
+SHA256: d123c9360f7f35369a4c7aa8221896326de97c2f57464c5c5ee4f2d4d432ddea
 Section: Utilities
 Description: A package that fixes the iFile and MTerminal icons on iOS 6 and below.
 Author: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
