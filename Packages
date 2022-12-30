@@ -353,6 +353,20 @@ Description: A powerful, efficient, lightweight, embeddable scripting language.
 Tag: purpose::console, role::hacker
 Name: Lua
 
+Package: lz4
+Version: 1.9.4
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/lz4-1.9.4.deb
+Size: 288866
+MD5sum: 04486480f45429e8cbd9774b380a5009
+SHA1: 58f2f4c29b17087c46babfe1fbecd756f6874ae3
+SHA256: 182400573680e6d2df8af24d5e7b12adae5a4a8cd151fbf9d0b1608668427cff
+Section: Archiving
+Priority: optional
+Description: Extremely fast compression algorithm
+Tag: purpose::console
+
 Package: lzip
 Version: 1.23
 Architecture: iphoneos-arm
