@@ -795,3 +795,17 @@ Description: A very advanced and programmable command interpreter (shell) for UN
 Tag: purpose::console
 Name: Z Shell
 
+Package: zstd
+Version: 1.5.2
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/zstd-1.5.2.deb
+Size: 1228580
+MD5sum: b485dbff22e923a0643e5cf7ae1a069e
+SHA1: 273b7168716891b8850b28fadfb2e8947d61d3ec
+SHA256: fe476e9db223a2778ca47ad48601e454372f041c555a3b76b33dad4551d86ea2
+Section: Archiving
+Priority: optional
+Description: Zstandard - Fast real-time compression algorithm
+Tag: purpose::console
+
