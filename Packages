@@ -465,13 +465,12 @@ Package: openssh
 Version: 9.1p1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: openssl
 Filename: ./debs/openssh-9.1p1.deb
-Size: 2219950
-MD5sum: 60cc531d05d2ffbad98ec554d83f1291
-SHA1: 4a0567da0e9c84cd7f62bd84c1dc270a2dc1aeac
-SHA256: f9f02dbaabba20c05142cf5095d79c6f3935d11f6c1b65504f88b9c0d8445264
+Size: 2219924
+MD5sum: 08dbb949bbb36cf7a2fb5b35fd81e860
+SHA1: 347107ef01e6d4279f6ca772049b9b4c89a6b993
+SHA256: 8b2adba8eaa136e406429881b4e200aae0457f820fd44a08da2faf8d8494b447
 Section: Networking
 Priority: important
 Description: secure remote access between machines
