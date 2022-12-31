@@ -321,20 +321,6 @@ Priority: important
 Description: provides less information than more does
 Tag: purpose::console
 
-Package: libidn2
-Version: 2.3.4
-Architecture: iphoneos-arm
-Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/libidn2-2.3.4.deb
-Size: 421774
-MD5sum: 844d114f68dabd9cd29be7ffeb986864
-SHA1: 819c86328e3b181bd39d564a552df48374ce1b68
-SHA256: 98199d3cfada494deeb7eced4ddeedc78b100b007d4c5cbfc24ac40950351aac
-Section: Development
-Priority: optional
-Description: A free software implementation of IDNA2008, Punycode and TR46
-
 Package: lua
 Version: 5.4.4
 Architecture: iphoneos-arm
@@ -735,16 +721,15 @@ Package: wget
 Version: 1.21.3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: openssl, pcre, libidn2
+Depends: openssl, pcre
 Filename: ./debs/wget-1.21.3.deb
-Size: 267542
-MD5sum: cd49828d6ddb874d117176899aade42d
-SHA1: 856beba3028eff1fcf1fe34f45f6f730d5ded139
-SHA256: 6acbdd579ed9fce0b5d5b8d226ed6414ababd0d2f05fbfb6eb4bfab0642c73d5
+Size: 263970
+MD5sum: b7bcd4d6f95c704b06fe2e5f9c2a8247
+SHA1: 4a6a80d1eaa942873f8e1d4ffa648c2d52a964bc
+SHA256: bea40c651dcbbc6af4b5650f7465532f20d556a03349a3adb341a4fb6b6d60ed
 Section: Networking
 Priority: important
-Description: simple HTTP file transfer client
+Description: Network utility to retrieve files from the Web
 
 Package: which
 Version: 2.21
