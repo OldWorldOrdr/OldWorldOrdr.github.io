@@ -567,6 +567,21 @@ Section: Development
 Priority: required
 Description: command-line history management
 
+Package: rogue
+Version: 5.4.4
+Architecture: iphoneos-arm
+Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
+Filename: ./debs/rogue-5.4.4.deb
+Size: 92226
+MD5sum: c6f33100f94194f3ecf4b38515f3eb35
+SHA1: 85b15c6104028483cd28825642837e3621992e39
+SHA256: 5147b9986186631977dd32d2cd161cb199314a62817530657070875112b39530
+Section: Games
+Priority: important
+Description: The original dungeon crawl game.
+Tag: purpose::console
+Name: Rogue
+
 Package: rsync
 Version: 3.2.7
 Architecture: iphoneos-arm
