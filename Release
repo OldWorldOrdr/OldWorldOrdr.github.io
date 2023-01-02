@@ -1,8 +1,8 @@
-Origin: unix ports punjabi no virus
-Label: unix ports punjabi no virus
+Origin: NewOldiPhone
+Label: NewOldiPhone
 Suite: stable
 Version: 1.0
-Codename: unixports
+Codename: newoldiphone
 Architectures: iphoneos-arm
 Components: main
-Description: unix ports free download 2026
+Description: Newer packages for old idevices

@@ -482,10 +482,10 @@ Version: 1.1.1s
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/openssl-1.1.1s.deb
-Size: 3491642
-MD5sum: c194211a3de04d30f0bddc09e32f66b7
-SHA1: 055d6b69c7868914260c77b670378085bf12b2d7
-SHA256: 678a3e4a90f93dfa05b0057de8dc72000481b510a56037a4b8f6d3c95985462e
+Size: 3494786
+MD5sum: f1a9ac293b2eab046a983cef02cee7ff
+SHA1: 95cda4c6636edc160885ed10a8f8e4b489b3b3e5
+SHA256: 8ae9e945d4112968605ae96d4585035e1cbfd59dc3b119d9237f05db37643c7f
 Section: Security
 Priority: standard
 Description: SSL library and cryptographic tools
