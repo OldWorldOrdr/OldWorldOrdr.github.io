@@ -467,10 +467,10 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: openssl
 Filename: ./debs/openssh-9.1p1.deb
-Size: 2219924
-MD5sum: 08dbb949bbb36cf7a2fb5b35fd81e860
-SHA1: 347107ef01e6d4279f6ca772049b9b4c89a6b993
-SHA256: 8b2adba8eaa136e406429881b4e200aae0457f820fd44a08da2faf8d8494b447
+Size: 2537238
+MD5sum: 0f36dd6153b4a3ec2111570789280d43
+SHA1: 86e73ff1249a0024de57a350f36a22424e60eaf9
+SHA256: f3e4ede38d32445f89d3d968eec169a76b808e547a757f0059ad460805d3bea7
 Section: Networking
 Priority: important
 Description: secure remote access between machines
@@ -482,10 +482,10 @@ Version: 1.1.1s
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/openssl-1.1.1s.deb
-Size: 3471898
-MD5sum: 12fa0ab10818c7f103b6ea0347513119
-SHA1: aa964cb9dae578a24aadca8178c7569d4dd14efd
-SHA256: 77b5cc9f6db862cfa33e2beb7136ebf09370d727ca0f616fb95d47f81f704446
+Size: 3471912
+MD5sum: ff18bca3205501204f99a74389678132
+SHA1: b419ab6ff2611d79352c200743d30add3085387b
+SHA256: edec36f889ebc9f0e981e61d6f3d00e8559ecbc1f125d27273457393c93538bf
 Section: Security
 Priority: standard
 Description: SSL library and cryptographic tools
