@@ -572,10 +572,10 @@ Version: 5.4.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Filename: ./debs/rogue-5.4.4.deb
-Size: 92226
-MD5sum: c6f33100f94194f3ecf4b38515f3eb35
-SHA1: 85b15c6104028483cd28825642837e3621992e39
-SHA256: 5147b9986186631977dd32d2cd161cb199314a62817530657070875112b39530
+Size: 91084
+MD5sum: cbff209f501d5512e52465c327b374bb
+SHA1: 9eae502765260702f3f0089917edcdc0f5d9fc9a
+SHA256: 720f1c1bc9a5cb61797e435c3fe69f507b7f337b1f93981bbcb299bc2edf4702
 Section: Games
 Priority: important
 Description: The original dungeon crawl game.
