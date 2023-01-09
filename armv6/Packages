@@ -3,7 +3,7 @@ Version: 2.71
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: m4, perl
-Filename: ./debs/autoconf-2.71.deb
+Filename: ./armv6/debs/autoconf-2.71.deb
 Size: 573296
 MD5sum: 08fd2e01284e0a2fa33c1cd7e72267f2
 SHA1: a81c3dec84d4d54fc43634ef426450eae88f20b9
@@ -20,7 +20,7 @@ Version: 1.16.5
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: autoconf, perl
-Filename: ./debs/automake-1.16.5.deb
+Filename: ./armv6/debs/automake-1.16.5.deb
 Size: 475574
 MD5sum: dc31bb553065ec424372e613dbace941
 SHA1: 9ebc304463f8d7e5a20504b944b7de79d7a855db
@@ -37,7 +37,7 @@ Version: 5.2.15
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, ncurses, readline, sed
-Filename: ./debs/bash-5.2.15.deb
+Filename: ./armv6/debs/bash-5.2.15.deb
 Size: 419060
 MD5sum: ce1dd9006ba21db15718f513adda44c5
 SHA1: d4fbcf7aed2a52334e7b797d8e8f425f12613d44
@@ -53,7 +53,7 @@ Package: bzip2
 Version: 1.0.8
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/bzip2-1.0.8.deb
+Filename: ./armv6/debs/bzip2-1.0.8.deb
 Size: 218510
 MD5sum: 2de917fb41f8bb6ca45b66beac9a5c28
 SHA1: b1608ffbc4d87f31346028242d6d5a39b23ee6f6
@@ -72,7 +72,7 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Conflicts: coreutils
 Replaces: shell-cmds (<< 118-5), coreutils, netatalk (<= 2.0.3-6)
 Provides: dirname, kill, mktemp, su, md5sum, sha1sum, coreutils
-Filename: ./debs/coreutils-9.1.deb
+Filename: ./armv6/debs/coreutils-9.1.deb
 Size: 730718
 MD5sum: 21333c9b3ccb1b84608846dc38eeb975
 SHA1: 6e1fd0ba8b5fd6591e0ba34945b37ba16825bc46
@@ -89,7 +89,7 @@ Version: 3.04
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: perl
-Filename: ./debs/cowsay-3.04.deb
+Filename: ./armv6/debs/cowsay-3.04.deb
 Size: 12532
 MD5sum: 63c3c1e4691fa4e69302cd746728d284
 SHA1: 5ff00e383c0482477c72de5ff6b848b301888417
@@ -105,7 +105,7 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: openssl
-Filename: ./debs/curl-7.87.0.deb
+Filename: ./armv6/debs/curl-7.87.0.deb
 Size: 785354
 MD5sum: ecf66b768f54204b71d53ccfb6ceca94
 SHA1: f2da4f3e76d2bb8f7e186fd4dd05844faa69bbbf
@@ -120,7 +120,7 @@ Package: dash
 Version: 0.5.12
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/dash-0.5.12.deb
+Filename: ./armv6/debs/dash-0.5.12.deb
 Size: 59476
 MD5sum: 4eb99ac1769ffe899266e13209ea0c45
 SHA1: 59f0ecdbe48ed5c0f95125f3ec8ef691df88dcb7
@@ -135,7 +135,7 @@ Package: diffutils
 Version: 3.8
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/diffutils-3.8.deb
+Filename: ./armv6/debs/diffutils-3.8.deb
 Size: 176198
 MD5sum: 923b06e5bb9211bcaa61227b0509c3ea
 SHA1: 2ee9aaf74405c57e61721f4f84bd12b1c37109f6
@@ -151,7 +151,7 @@ Package: ed
 Version: 1.18
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/ed-1.18.deb
+Filename: ./armv6/debs/ed-1.18.deb
 Size: 24196
 MD5sum: fd8ad4731c643143882ee1436d0b0862
 SHA1: ab34eee6bb1bb17cb84f218e802c8efa430423cd
@@ -165,7 +165,7 @@ Package: file
 Version: 5.44
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/file-5.44.deb
+Filename: ./armv6/debs/file-5.44.deb
 Size: 468036
 MD5sum: e8721ae3c286e74a0ff02e44cf999c4a
 SHA1: 771da2691b278879d4041d493abbb82236fb749e
@@ -180,7 +180,7 @@ Version: 4.9.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: bash, sed
-Filename: ./debs/findutils-4.9.0.deb
+Filename: ./armv6/debs/findutils-4.9.0.deb
 Size: 286968
 MD5sum: fe5669e4d248164d895ab1771f291aaa
 SHA1: 4ad05d2e399b301b1abbf653e13d54918c93226d
@@ -197,7 +197,7 @@ Version: 5.2.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: profile.d
-Filename: ./debs/gawk-5.2.1.deb
+Filename: ./armv6/debs/gawk-5.2.1.deb
 Size: 386928
 MD5sum: 4d9c8371d5534e2f668e27fc6064ece1
 SHA1: f2c06b9737c2906f47f69c232a331b99a3248540
@@ -213,7 +213,7 @@ Version: 4.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/gcal-4.1.deb
+Filename: ./armv6/debs/gcal-4.1.deb
 Size: 675692
 MD5sum: 7c02eb5327591893c3ccc870f319e094
 SHA1: 0698b26461b009547215c706e253b6b7bdec191b
@@ -230,7 +230,7 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: curl, openssl
-Filename: ./debs/git-2.39.0.deb
+Filename: ./armv6/debs/git-2.39.0.deb
 Size: 12218532
 MD5sum: 81cd54b76d9e88e008d2d17a30042e8e
 SHA1: 6f6ac42bc716f5d5e4c09ac9f46eaa2063aa88df
@@ -245,7 +245,7 @@ Version: 3.8
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/grep-3.8.deb
+Filename: ./armv6/debs/grep-3.8.deb
 Size: 127610
 MD5sum: a901d7cb840933f6212a9ee6d2e98456
 SHA1: d69cce5a15e6da12f651d1b164825d0548ce1f93
@@ -261,7 +261,7 @@ Version: 1.12
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, sed
-Filename: ./debs/gzip-1.12.deb
+Filename: ./armv6/debs/gzip-1.12.deb
 Size: 71102
 MD5sum: 4b3c6b2225eedf85b2bf0f99b3858409
 SHA1: e70cf3e8dce11d0c4acef7d7cc2f86eeb0f8a541
@@ -278,7 +278,7 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: ncurses
-Filename: ./debs/hexedit-1.6.deb
+Filename: ./armv6/debs/hexedit-1.6.deb
 Size: 19582
 MD5sum: 4b3a851acf81c926b4961509e03175e9
 SHA1: 942eceeaee82eaa15ad4fee35fdee779de1f940f
@@ -293,7 +293,7 @@ Version: 5.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: curl, coreutils-bin, bash
-Filename: ./debs/iconfix-5.0.deb
+Filename: ./armv6/debs/iconfix-5.0.deb
 Size: 1410
 MD5sum: d81b4adc69c094f03594822471edbf80
 SHA1: c0bb566ee652d9e9b5a6480f52cef864be712477
@@ -311,7 +311,7 @@ Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: ncurses
 Replaces: system-cmds (<= 433.4-11)
 Provides: more
-Filename: ./debs/less-608.deb
+Filename: ./armv6/debs/less-608.deb
 Size: 100680
 MD5sum: 0283016c8bab0863b1327d05ab744a72
 SHA1: e054df37e78db32c09da34d42c05cebc1ea083c3
@@ -328,7 +328,7 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: readline
 Conflicts: com.deltaman.lua
 Replaces: com.deltaman.lua
-Filename: ./debs/lua-5.4.4.deb
+Filename: ./armv6/debs/lua-5.4.4.deb
 Size: 377470
 MD5sum: caa28a2c29107ec7a7e9d30de99bde33
 SHA1: 4e1ea84304ad644f12f8e5d314498430769c6e0d
@@ -343,7 +343,7 @@ Package: lz4
 Version: 1.9.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/lz4-1.9.4.deb
+Filename: ./armv6/debs/lz4-1.9.4.deb
 Size: 288866
 MD5sum: 04486480f45429e8cbd9774b380a5009
 SHA1: 58f2f4c29b17087c46babfe1fbecd756f6874ae3
@@ -357,7 +357,7 @@ Package: lzip
 Version: 1.23
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/lzip-1.23.deb
+Filename: ./armv6/debs/lzip-1.23.deb
 Size: 55672
 MD5sum: c9646814f04a212ecb2933e0b12d4d04
 SHA1: 7cd31090d4f301ce6170c878f20fdf53c0b80afa
@@ -372,7 +372,7 @@ Package: m4
 Version: 1.4.19
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/m4-1.4.19.deb
+Filename: ./armv6/debs/m4-1.4.19.deb
 Size: 133288
 MD5sum: ff733bdb0fcca90d70b824eeb21310fe
 SHA1: 8a24756454b5323ac78d2fd7d2983f7dc233d6cb
@@ -388,7 +388,7 @@ Version: 7.1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
-Filename: ./debs/nano-7.1.deb
+Filename: ./armv6/debs/nano-7.1.deb
 Size: 286752
 MD5sum: fb551f7cc0f270ba6323fcd573294c82
 SHA1: 9b3eed6de3f0e7303b97717259a3467fb2bb5005
@@ -404,7 +404,7 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: ncurses
-Filename: ./debs/ncdu-1.18.deb
+Filename: ./armv6/debs/ncdu-1.18.deb
 Size: 38442
 MD5sum: e6191b5b34a686ddbd2e3b90fb552985
 SHA1: fc29089eb83f47e873ead8e492fdd28f7d7467b4
@@ -419,11 +419,11 @@ Package: ncurses
 Version: 5.9-2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/ncurses-5.9.deb
-Size: 775648
-MD5sum: 20b345530d5f3afc969f7f832b6d2334
-SHA1: 4dc5532f7bb0815aabb8c7b70c176e0517d69540
-SHA256: 0c7be28d66d253b2d8004d8753ed162f934a4f0a996a9f01842f819013aef19b
+Filename: ./armv6/debs/ncurses-5.9.deb
+Size: 775626
+MD5sum: 1bfb5d30811d768dc527a66f6702d7c2
+SHA1: 2009d46836618b6cc87d506c3f2573a4187f54fd
+SHA256: 01696c72c0315a988e362497acf4d29b2915a3edd5acbaa29b6be15b9e68c158
 Section: System
 Priority: required
 Description: feature-complete terminal library
@@ -434,7 +434,7 @@ Version: 7.3.5
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: coreutils, gawk, grep, bash, coreutils-bin, system-cmds, darwintools
-Filename: ./debs/neofetch-7.3.5.deb
+Filename: ./armv6/debs/neofetch-7.3.5.deb
 Size: 121786
 MD5sum: 4904c33360f602ec23fccd1497d71996
 SHA1: 83b8c3360455c4396d58e33d26814af5bfff12c3
@@ -449,11 +449,11 @@ Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Conflicts: nvi
-Filename: ./debs/nextvi-1.0.deb
-Size: 92566
-MD5sum: 69aa12c31401f206f1931e7b46a5c40c
-SHA1: 40deb61bae78191231e7461c6caa59ac593fea4b
-SHA256: e168b4bb2963c8f7c6faa77761c544650761d5e64a85dc065ff624424e4be2d6
+Filename: ./armv6/debs/nextvi-1.0.deb
+Size: 94514
+MD5sum: b1c8c893e2d462019e11331f6985bc5f
+SHA1: b680c10845c5c0b08bf8e48777ebc0a6271042a0
+SHA256: bc13e2305268972deba9b958f27c77908f73387bbe4c2b475e37a234513dd5c9
 Section: Text_Editors
 Priority: standard
 Description: Next version of neatvi (a small vi/ex editor) for editing bidirectional UTF-8 text.
@@ -465,7 +465,7 @@ Version: 9.1p1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: openssl
-Filename: ./debs/openssh-9.1p1.deb
+Filename: ./armv6/debs/openssh-9.1p1.deb
 Size: 2536836
 MD5sum: db0045c5f0a72b133c67b9b46daf04d5
 SHA1: 3d48569b3d1309722ab45e03956f5d17157b26fa
@@ -480,7 +480,7 @@ Package: openssl
 Version: 1.1.1s
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/openssl-1.1.1s.deb
+Filename: ./armv6/debs/openssl-1.1.1s.deb
 Size: 3471912
 MD5sum: ff18bca3205501204f99a74389678132
 SHA1: b419ab6ff2611d79352c200743d30add3085387b
@@ -494,7 +494,7 @@ Package: patch
 Version: 2.7.6
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/patch-2.7.6.deb
+Filename: ./armv6/debs/patch-2.7.6.deb
 Size: 112272
 MD5sum: a0c1437aee145d7d263878f6df735bd1
 SHA1: 5f494e53b6baf5b21e69cc717ae28de8f8d20dd1
@@ -509,7 +509,7 @@ Version: 8.45
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/pcre-8.45.deb
+Filename: ./armv6/debs/pcre-8.45.deb
 Size: 320556
 MD5sum: 3c401e0c9ee10838b780f296414c5182
 SHA1: 19cab31da0cc2c0d66dbf6925109174f613f7d55
@@ -525,7 +525,7 @@ Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Conflicts: org.coolstar.perl
 Replaces: org.coolstar.perl
 Provides: org.coolstar.perl
-Filename: ./debs/perl-5.26.1.deb
+Filename: ./armv6/debs/perl-5.26.1.deb
 Size: 12043770
 MD5sum: 282b9b387851d4d6b8c9ded16db04869
 SHA1: 4e8e59f4ce6cf2ba38b5850faf137eeaf24ca5f1
@@ -541,7 +541,7 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: adv-cmds
-Filename: ./debs/pstree-2.40.deb
+Filename: ./armv6/debs/pstree-2.40.deb
 Size: 5910
 MD5sum: ca4d98963b702103293964a2c8e7e322
 SHA1: de60f2d80b116ea6dc9be16e363702a453bb7346
@@ -557,7 +557,7 @@ Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: ncurses
-Filename: ./debs/readline-8.2.1.deb
+Filename: ./armv6/debs/readline-8.2.1.deb
 Size: 1333860
 MD5sum: d2a678ad4a7deada6308034cf1b764ff
 SHA1: 35ce12b6f52dab35296b1dd4a4488346d95d5854
@@ -570,7 +570,7 @@ Package: rogue
 Version: 5.4.4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/rogue-5.4.4.deb
+Filename: ./armv6/debs/rogue-5.4.4.deb
 Size: 91080
 MD5sum: e72c8b393863b7d56b8cf8fa0d7dab5b
 SHA1: 716d7c908f6e6f4fb8776d2c0d12f31d149d8458
@@ -586,7 +586,7 @@ Version: 3.2.7
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: openssl, lz4, zstd
-Filename: ./debs/rsync-3.2.7.deb
+Filename: ./armv6/debs/rsync-3.2.7.deb
 Size: 285670
 MD5sum: 3667dab9bfea0721c345f57ad0345877
 SHA1: f66fc2899c34134034e3a8fe9cdc291f4911535a
@@ -601,7 +601,7 @@ Version: 4.9.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
-Filename: ./debs/screen-4.9.0.deb
+Filename: ./armv6/debs/screen-4.9.0.deb
 Size: 469582
 MD5sum: e34235f9f850c94cb7bf665830d09493
 SHA1: 691b0c31e7d141a00b09dcafb75b0a5b594a5054
@@ -615,7 +615,7 @@ Version: 4.9
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/sed-4.9.deb
+Filename: ./armv6/debs/sed-4.9.deb
 Size: 102436
 MD5sum: 43f79b542a993bf31fe849d9d076c204
 SHA1: f9660cd4acee90c7599c0482038b83be1d8526f7
@@ -630,7 +630,7 @@ Package: sudo
 Version: 1.9.12p1
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/sudo-1.9.12p1.deb
+Filename: ./armv6/debs/sudo-1.9.12p1.deb
 Size: 920232
 MD5sum: 208b11aeb5ff65e9e0bfbabbc56bf92e
 SHA1: 738143a588ea1a1302003007f7aa5f5fa1141e13
@@ -645,7 +645,7 @@ Version: 1.34
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: bzip2, gzip, lzma
-Filename: ./debs/tar-1.34.deb
+Filename: ./armv6/debs/tar-1.34.deb
 Size: 257378
 MD5sum: 484ef778ea6a6e7200a526a6fca37655
 SHA1: 32d9178e8dfd9bfb57f72aeb846e3a9743751147
@@ -662,7 +662,7 @@ Version: 6.24.07
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
-Filename: ./debs/tcsh-6.24.07.deb
+Filename: ./armv6/debs/tcsh-6.24.07.deb
 Size: 199166
 MD5sum: 099be853282a8a8f0016d5dc4c4c4896
 SHA1: bfd625195de720b7cc281a5f17a1b8a7e414d1f9
@@ -677,7 +677,7 @@ Version: 1.9
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/time-1.9.deb
+Filename: ./armv6/debs/time-1.9.deb
 Size: 11528
 MD5sum: aae8b0a6452fd51bdf1b3be0a2b0826a
 SHA1: d75c88f896ea6d47213da665c12b227729a70278
@@ -691,7 +691,7 @@ Package: tree
 Version: 2.1.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/tree-2.1.0.deb
+Filename: ./armv6/debs/tree-2.1.0.deb
 Size: 31152
 MD5sum: 6134048da8be9a4bf3230ebe37505d9f
 SHA1: 01a52d9354ad1f17f730fefec7929910292a4e94
@@ -705,7 +705,7 @@ Package: unrar
 Version: 6.20b3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/unrar-6.20b3.deb
+Filename: ./armv6/debs/unrar-6.20b3.deb
 Size: 160272
 MD5sum: d430c2b337557c5665188145ad9ac062
 SHA1: 570bb2c414d36c9b5817e889839814fb0452c2a6
@@ -719,7 +719,7 @@ Version: 9.0.1097
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
-Filename: ./debs/vim-9.0.1097.deb
+Filename: ./armv6/debs/vim-9.0.1097.deb
 Size: 10041850
 MD5sum: a0629709a16d1fc5dbbf50c3c008fcc7
 SHA1: 691b9727339e929a571302d9b7346be0bc836231
@@ -735,7 +735,7 @@ Version: 1.21.3
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: openssl, pcre
-Filename: ./debs/wget-1.21.3.deb
+Filename: ./armv6/debs/wget-1.21.3.deb
 Size: 263970
 MD5sum: b7bcd4d6f95c704b06fe2e5f9c2a8247
 SHA1: 4a6a80d1eaa942873f8e1d4ffa648c2d52a964bc
@@ -749,7 +749,7 @@ Version: 2.21
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: ./debs/which-2.21.deb
+Filename: ./armv6/debs/which-2.21.deb
 Size: 9832
 MD5sum: 5264dae75a991f78632e85053493aa2c
 SHA1: a3e845227eca9148463038fba3676c202b4f5e41
@@ -764,7 +764,7 @@ Version: 5.4.0
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: grep, sed
-Filename: ./debs/xz-5.4.0.deb
+Filename: ./armv6/debs/xz-5.4.0.deb
 Size: 598388
 MD5sum: 6c135cbb74588b6e026065a4c748c1bf
 SHA1: a2478e96e09d7e311ec0c992bd4cceea5616e9ab
@@ -781,7 +781,7 @@ Version: 5.9-4
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
 Depends: ncurses
-Filename: ./debs/zsh-5.9.deb
+Filename: ./armv6/debs/zsh-5.9.deb
 Size: 2031770
 MD5sum: c90395ce8483d1e25d0fef988aa3e198
 SHA1: 3ab26e25cae74cc48c847b6f3e708a19e7cd59db
@@ -796,7 +796,7 @@ Package: zstd
 Version: 1.5.2
 Architecture: iphoneos-arm
 Maintainer: Joey Reinhart (OldWorldOrder) <joey.t.reinhart@gmail.com>
-Filename: ./debs/zstd-1.5.2.deb
+Filename: ./armv6/debs/zstd-1.5.2.deb
 Size: 1228580
 MD5sum: b485dbff22e923a0643e5cf7ae1a069e
 SHA1: 273b7168716891b8850b28fadfb2e8947d61d3ec
